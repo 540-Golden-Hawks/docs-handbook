@@ -61,6 +61,10 @@ Each department within the Squadron is operated by a command team partnership be
 | :--- | :--- | :--- |
 
 
+
+
+In addition to the above positions, Staff Cadets take on many other leadership appointments within extracurricular teams and activities, as well as when on the Parade Square.
+
 It is standard operating procedure for military units to operate with a clearly defined Chain of Command. This is beneficial because the Commanding Officer – being only one person – can not realistically meet with each member within the unit individually to address concerns.
 
 The Chain of Command is the command hierarchy within our unit starting at the top with the Commanding Officer, proceeding down to the Adult Staff in the appropriate department, and then down the Cadet ranks. ultimately ending at the bottom with our brand new recruits. The expectation is that Cadets ask questions of their peers or their Staff Cadets before jumping straight to an Adult Staff member.
