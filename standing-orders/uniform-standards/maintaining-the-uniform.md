@@ -1,6 +1,6 @@
 # 4.3 Maintaining the uniform
 
-It costs the Department of National Defence hundreds of dollars to outfit each cadet. The squadron has a fixed budget to purchase uniforms each year. It is critical that the cadet takes care of their uniform, keeps it cleaned and pressed, and returns it to the squadron when they leave the squadron or outgrow the uniform. 
+It costs the Department of National Defence hundreds of dollars to outfit each cadet. The squadron has a fixed budget to purchase uniforms each year. It is critical that the cadet takes care of their uniform, keeps it cleaned and pressed, and returns it to the squadron when they leave the squadron or outgrow the uniform.
 
 The following tips will be useful to cadets in keeping their uniform to standard.
 

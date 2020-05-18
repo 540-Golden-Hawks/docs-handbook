@@ -1,7 +1,5 @@
 # Activity locations
 
-## 
-
 This is a list of the common activity locations that support our training activities.
 
 ## Training nights
@@ -42,7 +40,7 @@ Bronte
 1151 Bronte Rd., Oakville, ON
 
 Trafalgar  
-95 Oak Walk Dr., Oakville, ON 
+95 Oak Walk Dr., Oakville, ON
 
 Burlington  
 3800 Constable Henshaw Blvd., Burlington, ON

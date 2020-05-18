@@ -30,7 +30,7 @@ CO’s Parades operate with the following schedule:
 
 ## CO’s Parades
 
-Commanding Officer’s Parades are performed on the first Tuesday of every month. They are an opportunity for the CO to inspect each Cadet and the Squadron as a whole. All Cadets are expected to attend these evenings and to look as sharp as possible. 
+Commanding Officer’s Parades are performed on the first Tuesday of every month. They are an opportunity for the CO to inspect each Cadet and the Squadron as a whole. All Cadets are expected to attend these evenings and to look as sharp as possible.
 
 ## Extracurriculars
 

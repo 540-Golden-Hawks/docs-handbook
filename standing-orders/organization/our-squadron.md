@@ -20,11 +20,11 @@ While Staff Cadets are empowered to take on the responsibility of running the Sq
 * Civilian Instructors hired as specialists by the Department of National Defence
 * Civilian Volunteers screened by the Air Cadet League of Canada
 
-Our Officers are within the Cadet Organizations Administration and Training Service \(COATS\) sub-component of the Reserve Force. They are specifically trained and tasked with the supervision, administration, and training of our Cadets. 
+Our Officers are within the Cadet Organizations Administration and Training Service \(COATS\) sub-component of the Reserve Force. They are specifically trained and tasked with the supervision, administration, and training of our Cadets.
 
 As a member of the Reserves, all of our Officers have full time day jobs, or are pursuing post-secondary education, and dedicate their evenings, weekends, and even vacation days to the development of the youth under our care.
 
-Our Adult Staff come from all walks of life and bring a wealth of knowledge and personal experience to the Squadron. The vast majority of our Adult Staff were Air Cadets before and are here to give back to the community and the program that they themselves benefited from. 
+Our Adult Staff come from all walks of life and bring a wealth of knowledge and personal experience to the Squadron. The vast majority of our Adult Staff were Air Cadets before and are here to give back to the community and the program that they themselves benefited from.
 
 ## Squadron Sponsoring Committee \(SSC\)
 

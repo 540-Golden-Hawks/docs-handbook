@@ -1,6 +1,6 @@
 # 4.4 Orders of dress
 
-The composition provided under each of the following orders of dress highlight the differences between the orders. Reading these excerpts and are not a replacement for reviewing the descriptions provided within the CJCR Dress Instructions. 
+The composition provided under each of the following orders of dress highlight the differences between the orders. Reading these excerpts and are not a replacement for reviewing the descriptions provided within the CJCR Dress Instructions.
 
 ## Ceremonial Dress \(C1\)
 
@@ -24,9 +24,7 @@ The composition provided under each of the following orders of dress highlight t
       </td>
     </tr>
   </tbody>
-</table>## Mess Dress \(C2\)
-
-C2 is worn for mess dinners and banquets. It is important to note that no headdress is worn in C2 both in transit or at an event. Cadets are to leave their headdress at home when wearing C2.
+</table>\#\# Mess Dress \\(C2\\) C2 is worn for mess dinners and banquets. It is important to note that no headdress is worn in C2 both in transit or at an event. Cadets are to leave their headdress at home when wearing C2.
 
 <table>
   <thead>
@@ -54,9 +52,7 @@ C2 is worn for mess dinners and banquets. It is important to note that no headdr
       </td>
     </tr>
   </tbody>
-</table>## Service Dress \(C3\)
-
-C3 is the daily dress for cadets.
+</table>\#\# Service Dress \\(C3\\) C3 is the daily dress for cadets.
 
 <table>
   <thead>
@@ -122,7 +118,7 @@ C3 is the daily dress for cadets.
       </td>
     </tr>
   </tbody>
-</table>## Training Dress \(C5\)
+</table>\#\# Training Dress \\(C5\\)
 
 <table>
   <thead>

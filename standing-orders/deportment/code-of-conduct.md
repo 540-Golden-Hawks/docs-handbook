@@ -1,6 +1,6 @@
 # 5.1 Code of conduct
 
-All cadets of the squadron sign a Code of Conduct on an annual basis reaffirming their commitment to appropriate behaviour. 
+All cadets of the squadron sign a Code of Conduct on an annual basis reaffirming their commitment to appropriate behaviour.
 
 A breach of the Code of Conduct may result in disciplinary measures such as being assigned extra duties, removal of privileges or appointments, or being sent home from an activity. Severe breaches may include suspension and/or termination of membership.
 

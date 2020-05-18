@@ -133,7 +133,7 @@ Host countries include:
 * United Kingdom
 * United States of America
 
-## Staff 
+## Staff
 
 ### Advanced Training \(“Staff Cadet”\)
 

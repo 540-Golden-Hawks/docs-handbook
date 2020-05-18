@@ -1,12 +1,10 @@
 # 540 Squadron Handbook
 
-
-
 ![](.gitbook/assets/540-crest-beveled.png)
 
 ## Welcome
 
-Dear 540 Squadron family, 
+Dear 540 Squadron family,
 
 On behalf of the Cadets, Staff, and Squadron Sponsoring Committee \(SSC\), we welcome you to the Squadron. We hope that you find your time with us to be an enjoyable, fun, and educational experience.
 
@@ -41,7 +39,7 @@ The three aims of the Air Cadet Program are:
 
 ### Staying informed
 
-Information about the program and our Squadron is available on our website: https://540goldenhawks.ca. 
+Information about the program and our Squadron is available on our website: [https://540goldenhawks.ca](https://540goldenhawks.ca).
 
 Additional information can be found within this handbook.
 

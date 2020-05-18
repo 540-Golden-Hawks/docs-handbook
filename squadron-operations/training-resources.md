@@ -18,6 +18,5 @@ This publication details cadet and JCR clothing and uniforms, accoutrements, ins
 
 [Canadian Armed Forces Dress Instructions](https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/dress-manual.html) \(current\)
 
-This publication provides Canadian Forces personnel with the instructions for dress and personal appearance, what badge and insignia items are authorized for wear and the methods for wearing all uniforms and insignia.  
-
+This publication provides Canadian Forces personnel with the instructions for dress and personal appearance, what badge and insignia items are authorized for wear and the methods for wearing all uniforms and insignia.
 

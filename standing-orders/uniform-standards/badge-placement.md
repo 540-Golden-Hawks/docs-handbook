@@ -40,7 +40,7 @@ As depicted above.
 
 Medals shall only be worn on the jacket with C1 order of dress.
 
-Medals shall be suspended above the right breast pocket of the jacket, immediately above and centred. 
+Medals shall be suspended above the right breast pocket of the jacket, immediately above and centred.
 
 When two or more medals are awarded, they shall be worn in order of precedence, without interval, with the highest priority medal closest to the centre of the chest. Medals shall hang in one row so that they are fully visible.
 
@@ -86,7 +86,7 @@ If a cadet successfully completes both Scholarships, only the Power Pilot Wings 
 
 ### Effective Speaking Pins
 
-Worn centred on the left jacket pocket, equidistant between the lower seam and the lower edge of the pocket flap. 
+Worn centred on the left jacket pocket, equidistant between the lower seam and the lower edge of the pocket flap.
 
 | Zone Bronze | Provincial Silver | National Gold |
 | :---: | :---: | :---: |
@@ -112,9 +112,9 @@ Worn centred on the left jacket pocket, equidistant between the lower seam and t
 
 ### Summer training course badges
 
-These badges shall be worn on the right sleeve in the order that they are awarded. 
+These badges shall be worn on the right sleeve in the order that they are awarded.
 
-The first badge awarded is centred immediately above the cuff of the uniform jacket. The second badge awarded is placed immediately to the left of the first badge, to the front of the sleeve. The third badge awarded is placed immediately to the right of the first badge, to the rear of the sleeve. The fourth, fifth and sixth badges are placed immediately above badges one, two and three forming a second row of badges and they are placed in the same order as the first row. If a seventh badge is awarded, it shall be placed immediately over the fourth badge. 
+The first badge awarded is centred immediately above the cuff of the uniform jacket. The second badge awarded is placed immediately to the left of the first badge, to the front of the sleeve. The third badge awarded is placed immediately to the right of the first badge, to the rear of the sleeve. The fourth, fifth and sixth badges are placed immediately above badges one, two and three forming a second row of badges and they are placed in the same order as the first row. If a seventh badge is awarded, it shall be placed immediately over the fourth badge.
 
 Only a maximum of seven badges shall be worn.
 

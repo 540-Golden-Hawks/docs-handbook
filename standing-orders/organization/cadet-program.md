@@ -11,7 +11,7 @@ The DND provides support for the delivery of the Cadet Program via:
 * Issuing uniforms
 * Funding mandatory training activities
 
-At the local level, the DND is represented by approximately 10 Commissioned Officers in the Canadian Armed Forces attached to 540 Sqn. These Officers are in the Cadet Instructor Cadre branch of the military and are all reservists with either full time day jobs, or are pursuing post-secondary education. 
+At the local level, the DND is represented by approximately 10 Commissioned Officers in the Canadian Armed Forces attached to 540 Sqn. These Officers are in the Cadet Instructor Cadre branch of the military and are all reservists with either full time day jobs, or are pursuing post-secondary education.
 
 ## Air Cadet League of Canada
 
@@ -21,5 +21,5 @@ The Air Cadet League of Canada is a civilian, non-profit, community-based and vo
 2. To encourage the development of citizenship and leadership through enrichment activities such as effective speaking and music, community volunteer opportunities, and academic awards and scholarships; and
 3. To provide air cadet training as a means of promoting the efficiency of the armed forces.
 
-At the local level, the League is represented by the “540 Golden Hawks - Royal Canadian Air Cadet Squadron Sponsor Committee”, a registered charity, made up of parent volunteers and local professionals dedicating their time to the support of the Squadron. 
+At the local level, the League is represented by the “540 Golden Hawks - Royal Canadian Air Cadet Squadron Sponsor Committee”, a registered charity, made up of parent volunteers and local professionals dedicating their time to the support of the Squadron.
 

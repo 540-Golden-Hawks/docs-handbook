@@ -26,7 +26,7 @@ The Upper Canada District School Board \(UCDSB\) offers high school co-op credit
 
 All information about the cadet co-op program is found on the UCDSB website. Be mindful of application deadlines!
 
-{% embed url="http://www.ucdsb.on.ca/" %}
+{% embed url="http://www.ucdsb.on.ca/" caption="" %}
 
 ## Social media
 

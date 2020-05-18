@@ -12,7 +12,7 @@ Changes to contact information can be ink-amended on the paper form. Changes to 
 
 The DHQ can be found on our website under the [joining instructions](https://540goldenhawks.ca/join).
 
-A DHQ is required for any Cadet that takes medication, has allergies, or has any other medical limitations that may prevent them from fully participating in the Cadet Program. 
+A DHQ is required for any Cadet that takes medication, has allergies, or has any other medical limitations that may prevent them from fully participating in the Cadet Program.
 
 The Squadron Staff are not medical professionals and are not authorized to read the contents of the DHQ. Having said that, we encourage parents to inform our Staff of any health or medical issues that may be relevant for the success of their Cadet.
 
@@ -26,7 +26,7 @@ There are at least three forms that are required. Instructions on which forms ar
 
 ## Health card
 
-Cadets must have valid health insurance in order to participate in the Cadet Program. 
+Cadets must have valid health insurance in order to participate in the Cadet Program.
 
 For Cadets with an Ontario health card, we need to be informed of the new version code and expiry date each time the health card is renewed.
 
