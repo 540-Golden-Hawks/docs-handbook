@@ -1,7 +1,5 @@
 # 2.2 Our Squadron
 
-
-
 ## Cadets
 
 Our 250+ Cadets start their journey with us through practical, hands on training that builds interest, experience, and skill. As they progress through the years, the training program transitions to a more academic and rigorous program that will prepare them for taking on the role of a Staff Cadet at 540 Squadron.
