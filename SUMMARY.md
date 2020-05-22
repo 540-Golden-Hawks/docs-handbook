@@ -3,6 +3,51 @@
 * [540 Squadron Handbook](README.md)
 * [540 Squadron Website](https://540goldenhawks.ca)
 
+## Squadron Operations
+
+* [1. Introduction](squadron-operations/introduction.md)
+* [Training nights](squadron-operations/training-nights.md)
+* [Activity locations](squadron-operations/activity-locations.md)
+* [Summer training](squadron-operations/summer-training/README.md)
+  * [Course descriptions](squadron-operations/summer-training/course-descriptions.md)
+* [Training resources](squadron-operations/training-resources.md)
+
+## Organization
+
+* [Cadet Program](organization/cadet-program.md)
+* [Our Squadron](organization/our-squadron.md)
+* [Chain of Command](organization/chain-of-command.md)
+
+## Appointments & responsibilities
+
+* [Cadets](appointments-and-responsibilities/cadets.md)
+* [Staff Cadets](appointments-and-responsibilities/staff-cadets.md)
+
+## Uniform standards
+
+* [Overview](uniform-standards/overview.md)
+* [Wearing the uniform](uniform-standards/wearing-the-uniform.md)
+* [Maintaining the uniform](uniform-standards/maintaining-the-uniform.md)
+* [Badge placement](uniform-standards/badge-placement.md)
+* [Orders of dress](uniform-standards/orders-of-dress.md)
+* [Civilian attire](uniform-standards/civilian-attire.md)
+* [Religious or spiritual accomodation](uniform-standards/religious-or-spiritual-accomodation.md)
+
+## Deportment
+
+* [General](deportment/general.md)
+* [Code of Conduct](deportment/code-of-conduct.md)
+* [Appearance](deportment/appearance.md)
+* [Paying of compliments](deportment/paying-of-compliments.md)
+* [Electronic communication & social media](deportment/electronic-communication-and-social-media.md)
+
+## Administration
+
+* [Communication](administration/untitled.md)
+* [Attendance](administration/attendance.md)
+* [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
+* [Paperwork](administration/paperwork.md)
+
 ## Standing Orders
 
 * [1. Introduction](standing-orders/introduction.md)
@@ -30,48 +75,4 @@
   * [6.2 Attendance](standing-orders/administration/attendance.md)
   * [6.3 Volunteer hours & letters of reference](standing-orders/administration/volunteer-hours-and-letters-of-reference.md)
   * [6.4 Paperwork](standing-orders/administration/paperwork.md)
-
-## Squadron Operations
-
-* [1. Introduction](squadron-operations/introduction.md)
-* [Training nights](squadron-operations/training-nights.md)
-* [Activity locations](squadron-operations/activity-locations.md)
-* [Summer training](squadron-operations/summer-training/README.md)
-  * [Course descriptions](squadron-operations/summer-training/course-descriptions.md)
-* [Training resources](squadron-operations/training-resources.md)
-
-## Organization
-
-* [Cadet Program](organization/cadet-program.md)
-* [Our Squadron](organization/our-squadron.md)
-* [Chain of Command](organization/chain-of-command.md)
-
-## Appointments & responsibilities
-
-* [Cadets](appointments-and-responsibilities/cadets.md)
-* [Staff Cadets](appointments-and-responsibilities/staff-cadets.md)
-
-## Uniform standards
-
-* [Wearing the uniform](uniform-standards/wearing-the-uniform.md)
-* [Maintaining the uniform](uniform-standards/maintaining-the-uniform.md)
-* [Badge placement](uniform-standards/badge-placement.md)
-* [Orders of dress](uniform-standards/orders-of-dress.md)
-* [Civilian attire](uniform-standards/civilian-attire.md)
-* [Religious or spiritual accomodation](uniform-standards/religious-or-spiritual-accomodation.md)
-
-## Deportment
-
-* [General](deportment/general.md)
-* [Code of Conduct](deportment/code-of-conduct.md)
-* [Appearance](deportment/appearance.md)
-* [Paying of compliments](deportment/paying-of-compliments.md)
-* [Electronic communication & social media](deportment/electronic-communication-and-social-media.md)
-
-## Administration
-
-* [Communication](administration/untitled.md)
-* [Attendance](administration/attendance.md)
-* [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
-* [Paperwork](administration/paperwork.md)
 
