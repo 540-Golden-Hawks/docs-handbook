@@ -62,9 +62,16 @@
 
 ## Deportment
 
-* [Untitled](deportment/untitled.md)
+* [General](deportment/general.md)
+* [Code of Conduct](deportment/code-of-conduct.md)
+* [Appearance](deportment/appearance.md)
+* [Paying of compliments](deportment/paying-of-compliments.md)
+* [Electronic communication & social media](deportment/electronic-communication-and-social-media.md)
 
 ## Administration
 
-* [Untitled](administration/untitled.md)
+* [Communication](administration/untitled.md)
+* [Attendance](administration/attendance.md)
+* [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
+* [Paperwork](administration/paperwork.md)
 
