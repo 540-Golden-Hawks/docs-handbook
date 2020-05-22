@@ -62,7 +62,7 @@ Use the menu on the left or the following shortcuts to browse this document.
 This section is still in development.
 {% endhint %}
 
-1. [Introduction](squadron-operations/introduction.md)
+1. [Introduction]()
 
 ### Summer Training
 
@@ -70,5 +70,5 @@ This section is still in development.
 This section is still in development.
 {% endhint %}
 
-1. [Introduction](squadron-operations/summer-training/)
+1. [Introduction]()
 

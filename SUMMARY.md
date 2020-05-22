@@ -3,15 +3,6 @@
 * [540 Squadron Handbook](README.md)
 * [540 Squadron Website](https://540goldenhawks.ca)
 
-## Squadron Operations
-
-* [1. Introduction](squadron-operations/introduction.md)
-* [Training nights](squadron-operations/training-nights.md)
-* [Activity locations](squadron-operations/activity-locations.md)
-* [Summer training](squadron-operations/summer-training/README.md)
-  * [Course descriptions](squadron-operations/summer-training/course-descriptions.md)
-* [Training resources](squadron-operations/training-resources.md)
-
 ## Organization
 
 * [Cadet Program](organization/cadet-program.md)
