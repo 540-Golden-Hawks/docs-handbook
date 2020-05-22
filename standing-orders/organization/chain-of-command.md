@@ -5,9 +5,9 @@ Each department within the Squadron is operated by a command team partnership be
 | Department | Staff Cadet appointment\(s\) | Adult Staff position\(s\) |
 | :--- | :--- | :--- |
 | **Command** | Squadron Warrant Officer \(SWO\) | Commanding Officer \(CO\), Deputy Commanding Officer \(DCO\) |
-| **Training** | Training Warrant Officer, Level Warrant Officer, Level Staff| Training Officer \(TrgO\), Assistant Training Officer, Level officer \(LvlO\), Assistant Level Officer|
+| **Training** | Training Warrant Officer, Level Warrant Officer, Level Staff | Training Officer \(TrgO\), Assistant Training Officer, Level officer \(LvlO\), Assistant Level Officer |
 | **Training Support** | Admin Warrant Officer, Admin Staff, Supply Staff | Admin Officer \(AdmO\), Assistant Admin Officer, Supply Officer \(SupO\), Assistant Supply Officer |
-| **Extracurriculars** |  Team Commander | Team Coach |
+| **Extracurriculars** | Team Commander | Team Coach |
 
 In addition to the above positions, Staff Cadets take on many other leadership appointments within extracurricular teams and activities, as well as when on the Parade Square.
 

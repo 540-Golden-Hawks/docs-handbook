@@ -40,3 +40,31 @@
   * [Course descriptions](squadron-operations/summer-training/course-descriptions.md)
 * [Training resources](squadron-operations/training-resources.md)
 
+## Organization
+
+* [Cadet Program](organization/cadet-program.md)
+* [Our Squadron](organization/our-squadron.md)
+* [Chain of Command](organization/chain-of-command.md)
+
+## Appointments & responsibilities
+
+* [Cadets](appointments-and-responsibilities/cadets.md)
+* [Staff Cadets](appointments-and-responsibilities/staff-cadets.md)
+
+## Uniform standards
+
+* [Wearing the uniform](uniform-standards/wearing-the-uniform.md)
+* [Maintaining the uniform](uniform-standards/maintaining-the-uniform.md)
+* [Badge placement](uniform-standards/badge-placement.md)
+* [Orders of dress](uniform-standards/orders-of-dress.md)
+* [Civilian attire](uniform-standards/civilian-attire.md)
+* [Religious or spiritual accomodation](uniform-standards/religious-or-spiritual-accomodation.md)
+
+## Deportment
+
+* [Untitled](deportment/untitled.md)
+
+## Administration
+
+* [Untitled](administration/untitled.md)
+
