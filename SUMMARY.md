@@ -39,6 +39,7 @@
 * [Communication](administration/untitled.md)
 * [Attendance](administration/attendance.md)
 * [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
+* [Cadet outtake procedure](administration/cadet-outtake-procedure.md)
 
 ## Standing Orders
 
