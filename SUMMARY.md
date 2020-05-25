@@ -6,9 +6,7 @@
 ## Organization
 
 * [Our Squadron](organization/our-squadron.md)
-* [Our Cadets](organization/our-cadets/README.md)
-  * [Cadets](organization/our-cadets/cadets.md)
-  * [Staff Cadets](organization/our-cadets/staff-cadets.md)
+* [Duties & responsibilities](organization/duties-and-responsibilities.md)
 * [Staff structure](organization/staff-structure.md)
 * [Program sponsorship](organization/program-sponsorship.md)
 
