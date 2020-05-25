@@ -1,6 +1,6 @@
 # 540 Squadron Handbook
 
-![](.gitbook/assets/540-crest-beveled.png)
+![](.gitbook/assets/540-crest-2020-profile-pic-.png)
 
 ## Welcome
 
