@@ -8,11 +8,11 @@
 * [Cadet Program](organization/cadet-program.md)
 * [Our Squadron](organization/our-squadron.md)
 * [Chain of Command](organization/chain-of-command.md)
+* [Responsibilities](organization/responsibilities/README.md)
+  * [Cadets](organization/responsibilities/cadets.md)
+  * [Staff Cadets](organization/responsibilities/staff-cadets.md)
 
 ## Appointments & responsibilities
-
-* [Cadets](appointments-and-responsibilities/cadets.md)
-* [Staff Cadets](appointments-and-responsibilities/staff-cadets.md)
 
 ## Uniform standards
 
