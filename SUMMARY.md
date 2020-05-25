@@ -24,6 +24,13 @@
   * [Advanced courses](training/summer-training/advanced-courses.md)
   * [National courses](training/summer-training/national-courses.md)
   * [Staff](training/summer-training/staff.md)
+* [Administration](training/administration/README.md)
+  * [Mandatory membership paperwork](training/administration/mandatory-membership-paperwork.md)
+  * [Communication](training/administration/communication.md)
+  * [Attendance](training/administration/attendance.md)
+  * [Safety procedures](training/administration/safety-procedures.md)
+  * [Volunteer hours & letters of reference](training/administration/volunteer-hours-and-letters-of-reference.md)
+  * [Cadet outtake procedure](training/administration/cadet-outtake-procedure.md)
 
 ## Standards
 
@@ -40,14 +47,6 @@
   * [Paying of compliments](standards/general/paying-of-compliments.md)
   * [Disciplinary procedures](standards/general/disciplinary-procedures.md)
   * [Electronic communication & social media](standards/general/electronic-communication-and-social-media.md)
-
-## Administration
-
-* [Mandatory membership paperwork](administration/mandatory-membership-paperwork.md)
-* [Communication](administration/communication.md)
-* [Attendance](administration/attendance.md)
-* [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
-* [Cadet outtake procedure](administration/cadet-outtake-procedure.md)
 
 ## Standing Orders
 
