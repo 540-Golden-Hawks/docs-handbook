@@ -35,6 +35,12 @@
 
 ## Standards
 
+* [Deportment](standards/deportment/README.md)
+  * [Appearance](standards/deportment/appearance.md)
+  * [Code of Conduct](standards/deportment/code-of-conduct.md)
+  * [Disciplinary procedures](standards/deportment/disciplinary-procedures.md)
+  * [Paying of compliments](standards/deportment/paying-of-compliments.md)
+  * [Electronic communication & social media](standards/deportment/electronic-communication-and-social-media.md)
 * [Uniform](standards/uniform/README.md)
   * [Wearing the uniform](standards/uniform/wearing-the-uniform.md)
   * [Maintaining the uniform](standards/uniform/maintaining-the-uniform.md)
@@ -42,10 +48,4 @@
   * [Orders of dress](standards/uniform/orders-of-dress.md)
   * [Civilian attire](standards/uniform/civilian-attire.md)
   * [Religious or spiritual accomodation](standards/uniform/religious-or-spiritual-accomodation.md)
-* [Deportment](standards/general/README.md)
-  * [Code of Conduct](standards/general/code-of-conduct.md)
-  * [Appearance](standards/general/appearance.md)
-  * [Paying of compliments](standards/general/paying-of-compliments.md)
-  * [Disciplinary procedures](standards/general/disciplinary-procedures.md)
-  * [Electronic communication & social media](standards/general/electronic-communication-and-social-media.md)
 
