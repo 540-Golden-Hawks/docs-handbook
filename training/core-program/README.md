@@ -12,11 +12,11 @@ Introduction to leadership, drill, aviation, survival, etc. Training is interac
 
 ### Level 2
 
-Training remains participation and experiential based and Cadets understand how peer leaders can influence the behaviour of their group.
+Training remains participation and experiential based. Cadets understand how peer leaders can influence the behaviour of their group.
 
 ### Level 3
 
-Training transforms from participation based to evaluation based. Increased focus on aviation subjects as well as an introduction to instructional techniques.
+Training transforms from participation based to evaluation based. There is an increased focus on aviation subjects, continued development on leadership, as well as an introduction to instructional technique and effective speaking skills.
 
 ### Level 4
 
