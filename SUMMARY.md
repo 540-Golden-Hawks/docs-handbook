@@ -12,8 +12,6 @@
   * [Cadets](organization/responsibilities/cadets.md)
   * [Staff Cadets](organization/responsibilities/staff-cadets.md)
 
-## Appointments & responsibilities
-
 ## Uniform standards
 
 * [Overview](uniform-standards/overview.md)
