@@ -19,7 +19,7 @@ The uniform includes:
 
 All Cadets are to write their name in their personal belongings and to ensure they have the correct item when leaving any cadet activity. Name tags will be worn by cadets.
 
-New Cadets shall only be issued a uniform once all enrolment paperwork is complete and signed off by the Commanding Officer \(CO\). A Cadet must have a continued presence at the squadron before receiving a uniform.
+New Cadets shall only be issued a uniform once all enrolment paperwork is complete and signed off by the Commanding Officer \(CO\). A Cadet must have a continued presence at the Squadron before receiving a uniform.
 
 A new Cadet is expected to attend training in appropriate civilian clothing as stated above until they have been issued a uniform.
 
