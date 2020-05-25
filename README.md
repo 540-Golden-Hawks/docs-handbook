@@ -60,19 +60,3 @@ Use the menu on the left or the following shortcuts to browse this document.
 5. [Deportment](standing-orders/deportment/)
 6. [Administration](standing-orders/administration/)
 
-### Squadron Operations
-
-{% hint style="danger" %}
-This section is still in development.
-{% endhint %}
-
-1. [Introduction]()
-
-### Summer Training
-
-{% hint style="danger" %}
-This section is still in development.
-{% endhint %}
-
-1. [Introduction]()
-
