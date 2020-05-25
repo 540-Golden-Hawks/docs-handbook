@@ -1,4 +1,4 @@
-# Membership paperwork
+# Mandatory membership paperwork
 
 ## Annual validation form
 
@@ -18,13 +18,13 @@ The Squadron Staff are not medical professionals and are not authorized to read 
 
 If you have any questions, please ask our Admin Staff.
 
-## Anaphylactic allergies
+## Anaphylactic allergy forms
 
 Similar to DHQs, the relevant anaphylactic allergy forms can be found on the website under the joining instructions.
 
 There are at least three forms that are required. Instructions on which forms are required as well as other requirements are all listed on the website.
 
-## Health card
+## Health card validation
 
 Cadets must have valid health insurance in order to participate in the Cadet Program.
 

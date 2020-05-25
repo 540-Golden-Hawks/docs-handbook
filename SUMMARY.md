@@ -35,7 +35,7 @@
 
 ## Administration
 
-* [Membership paperwork](administration/paperwork.md)
+* [Mandatory membership paperwork](administration/paperwork.md)
 * [Communication](administration/untitled.md)
 * [Attendance](administration/attendance.md)
 * [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
