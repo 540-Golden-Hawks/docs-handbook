@@ -16,6 +16,7 @@
 
 * [Core program](training/core-program/README.md)
   * [Training night schedule](training/core-program/training-night-schedule.md)
+  * [Rank & appointments](training/core-program/rank-and-appointments.md)
   * [Promotions](training/core-program/promotions.md)
 * [Extra-curriculars](training/extra-curriculars/README.md)
   * [Teams](training/extra-curriculars/teams.md)
