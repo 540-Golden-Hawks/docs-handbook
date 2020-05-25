@@ -2,7 +2,6 @@
 
 * [540 Squadron Handbook](README.md)
 * [Quick facts](quick-facts.md)
-* [540 Squadron Website](https://540goldenhawks.ca)
 
 ## Organization
 
