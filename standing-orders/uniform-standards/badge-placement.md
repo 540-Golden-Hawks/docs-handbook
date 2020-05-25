@@ -118,6 +118,10 @@ The first badge awarded is centred immediately above the cuff of the uniform jac
 
 Only a maximum of seven badges shall be worn.
 
+### Drum major appointment
+
+The Drum Major appointment badge is worn on the right sleeve of the jacket.
+
 ## Left sleeve
 
 ### Qualification badges
