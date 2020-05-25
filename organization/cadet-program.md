@@ -1,4 +1,4 @@
-# Cadet Program
+# Program sponsorship
 
 At the highest level, the Cadet Program is a partnership between two separate groups.
 

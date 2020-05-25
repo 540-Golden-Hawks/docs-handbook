@@ -1,16 +1,17 @@
 # Table of contents
 
 * [540 Squadron Handbook](README.md)
+* [Quick facts](quick-facts.md)
 * [540 Squadron Website](https://540goldenhawks.ca)
 
 ## Organization
 
-* [Cadet Program](organization/cadet-program.md)
 * [Our Squadron](organization/our-squadron.md)
 * [Chain of Command](organization/chain-of-command.md)
 * [Responsibilities](organization/responsibilities/README.md)
   * [Cadets](organization/responsibilities/cadets.md)
   * [Staff Cadets](organization/responsibilities/staff-cadets.md)
+* [Program sponsorship](organization/cadet-program.md)
 
 ## Training
 
