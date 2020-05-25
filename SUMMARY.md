@@ -49,3 +49,9 @@
   * [Civilian attire](standards/uniform/civilian-attire.md)
   * [Religious or spiritual accomodation](standards/uniform/religious-or-spiritual-accomodation.md)
 
+## Resources
+
+* [Cadet jargon](resources/cadet-jargon.md)
+* [Documents](resources/documents.md)
+* [Training locations](resources/training-locations.md)
+
