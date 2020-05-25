@@ -35,8 +35,8 @@
 
 ## Administration
 
-* [Mandatory membership paperwork](administration/paperwork.md)
-* [Communication](administration/untitled.md)
+* [Mandatory membership paperwork](administration/mandatory-membership-paperwork.md)
+* [Communication](administration/communication.md)
 * [Attendance](administration/attendance.md)
 * [Volunteer hours & letters of reference](administration/volunteer-hours-and-letters-of-reference.md)
 * [Cadet outtake procedure](administration/cadet-outtake-procedure.md)
