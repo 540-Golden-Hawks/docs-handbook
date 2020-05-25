@@ -53,10 +53,10 @@ Use the menu on the left or the following shortcuts to browse this document.
 
 ### Standing Orders
 
-1. [Introduction](standing-orders/introduction.md)
-2. [Organization](standing-orders/organization/)
-3. [Appointments & responsibilities](standing-orders/appointments-and-responsibilities/)
-4. [Uniform standards](standing-orders/uniform-standards/)
-5. [Deportment](standing-orders/deportment/)
-6. [Administration](standing-orders/administration/)
+1. [Introduction]()
+2. [Organization]()
+3. [Appointments & responsibilities]()
+4. [Uniform standards]()
+5. [Deportment]()
+6. [Administration]()
 
