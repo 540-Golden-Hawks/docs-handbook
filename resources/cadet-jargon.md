@@ -10,7 +10,11 @@ The Cadet Flag Party is symbolic of a military Colour Party or Colour Guard and 
 
 ### Flight
 
-### FTX - Field Training Exercise
+A basic formation of approximately 30 Cadets, normally formed in three ranks, having a right marker, a Flight Commander and a Flight 2IC.
+
+### FTX
+
+A Field Training Exercise, i.e. a camping weekend where cadets learn and practice survival skills, first aid, map and compass, radio communication, and more.
 
 ### Parade square
 
