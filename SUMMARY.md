@@ -37,6 +37,7 @@
   * [Safety procedures](training/administration/safety-procedures.md)
   * [Volunteer hours & letters of reference](training/administration/volunteer-hours-and-letters-of-reference.md)
   * [Cadet outtake procedure](training/administration/cadet-outtake-procedure.md)
+  * [Awards & recognition](training/administration/awards-and-recognition.md)
 
 ## Standards
 
