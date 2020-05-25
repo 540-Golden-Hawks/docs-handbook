@@ -32,7 +32,7 @@ Hair must be secured or styled back to reveal the face, and any accessories used
 * Exaggerated styles, including those with excessive fullness or extreme height, are not authorized
 * For reference, here is a [video on how to make a bun](https://www.youtube.com/watch?v=CXzelMVZ8Mo).
 
-![Hair style standards](../.gitbook/assets/hair-standards.png)
+![Hair style standards](../../.gitbook/assets/hair-standards.png)
 
 ## Jewellery
 

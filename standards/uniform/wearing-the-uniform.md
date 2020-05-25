@@ -46,7 +46,7 @@ Refer to image below for lacing standard.
 
 **Multi-purpose boot \(“combat boots”\)**: Intended for wear as environmental dress with the Cadet FTU. Multi-purpose boots shall be cross laced and kept clean at all times. They may be blackened with boot polish but shall not be shone.
 
-![Lacing standard](../.gitbook/assets/lace-standards.png)
+![Lacing standard](../../.gitbook/assets/lace-standards.png)
 
 ## All Season Coat \(“parka”\)
 

@@ -25,24 +25,21 @@
   * [National courses](training/summer-training/national-courses.md)
   * [Staff](training/summer-training/staff.md)
 
-## Uniform standards
+## Standards
 
-* [Overview](uniform-standards/overview.md)
-* [Wearing the uniform](uniform-standards/wearing-the-uniform.md)
-* [Maintaining the uniform](uniform-standards/maintaining-the-uniform.md)
-* [Badge placement](uniform-standards/badge-placement.md)
-* [Orders of dress](uniform-standards/orders-of-dress.md)
-* [Civilian attire](uniform-standards/civilian-attire.md)
-* [Religious or spiritual accomodation](uniform-standards/religious-or-spiritual-accomodation.md)
-
-## Deportment
-
-* [General](deportment/general.md)
-* [Code of Conduct](deportment/code-of-conduct.md)
-* [Appearance](deportment/appearance.md)
-* [Paying of compliments](deportment/paying-of-compliments.md)
-* [Disciplinary procedures](deportment/disciplinary-procedures.md)
-* [Electronic communication & social media](deportment/electronic-communication-and-social-media.md)
+* [Uniform](standards/uniform/README.md)
+  * [Wearing the uniform](standards/uniform/wearing-the-uniform.md)
+  * [Maintaining the uniform](standards/uniform/maintaining-the-uniform.md)
+  * [Badge placement](standards/uniform/badge-placement.md)
+  * [Orders of dress](standards/uniform/orders-of-dress.md)
+  * [Civilian attire](standards/uniform/civilian-attire.md)
+  * [Religious or spiritual accomodation](standards/uniform/religious-or-spiritual-accomodation.md)
+* [Deportment](standards/general/README.md)
+  * [Code of Conduct](standards/general/code-of-conduct.md)
+  * [Appearance](standards/general/appearance.md)
+  * [Paying of compliments](standards/general/paying-of-compliments.md)
+  * [Disciplinary procedures](standards/general/disciplinary-procedures.md)
+  * [Electronic communication & social media](standards/general/electronic-communication-and-social-media.md)
 
 ## Administration
 

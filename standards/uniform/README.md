@@ -1,4 +1,4 @@
-# Overview
+# Uniform
 
 Uniforms are temporarily issued to Cadets at no charge. Uniforms are provided and funded by the Department of National Defence. Cadets are responsible for the care, cleaning and custody of the uniform and also to return it when ceasing to be a Cadet.
 

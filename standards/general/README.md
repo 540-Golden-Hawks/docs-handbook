@@ -1,4 +1,4 @@
-# General
+# Deportment
 
 All cadets are expected to be familiar and comply with the contents of CJCR Dress Instructions, A-CR-CCO-100/AG-001.
 
