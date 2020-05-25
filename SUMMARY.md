@@ -6,11 +6,11 @@
 ## Organization
 
 * [Our Squadron](organization/our-squadron.md)
-* [Our Cadets](organization/responsibilities/README.md)
-  * [Cadets](organization/responsibilities/cadets.md)
-  * [Staff Cadets](organization/responsibilities/staff-cadets.md)
-* [Staff structure](organization/chain-of-command.md)
-* [Program sponsorship](organization/national-sponsorship.md)
+* [Our Cadets](organization/our-cadets/README.md)
+  * [Cadets](organization/our-cadets/cadets.md)
+  * [Staff Cadets](organization/our-cadets/staff-cadets.md)
+* [Staff structure](organization/staff-structure.md)
+* [Program sponsorship](organization/program-sponsorship.md)
 
 ## Training
 
