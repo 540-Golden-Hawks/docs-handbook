@@ -1,4 +1,4 @@
-# Paperwork
+# Membership paperwork
 
 ## Annual validation form
 
@@ -10,7 +10,7 @@ Changes to contact information can be ink-amended on the paper form. Changes to 
 
 ## Detailed Health Questionnaire \(“DHQ”\)
 
-The DHQ can be found on our website under the [joining instructions](https://540goldenhawks.ca/join).
+The DHQ can be found on our website under the joining instructions.
 
 A DHQ is required for any Cadet that takes medication, has allergies, or has any other medical limitations that may prevent them from fully participating in the Cadet Program.
 
@@ -20,7 +20,7 @@ If you have any questions, please ask our Admin Staff.
 
 ## Anaphylactic allergies
 
-Similar to DHQs, the relevant anaphylactic allergy forms can be found on the website under the [joining instructions](https://540goldenhawks.ca/join).
+Similar to DHQs, the relevant anaphylactic allergy forms can be found on the website under the joining instructions.
 
 There are at least three forms that are required. Instructions on which forms are required as well as other requirements are all listed on the website.
 
