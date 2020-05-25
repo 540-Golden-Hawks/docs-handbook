@@ -12,6 +12,19 @@
   * [Cadets](organization/responsibilities/cadets.md)
   * [Staff Cadets](organization/responsibilities/staff-cadets.md)
 
+## Training
+
+* [Core program](training/core-program/README.md)
+  * [Training night schedule](training/core-program/training-night-schedule.md)
+  * [Promotions](training/core-program/promotions.md)
+* [Extra-curriculars](training/extra-curriculars.md)
+* [Summer training](training/summer-training/README.md)
+  * [Introductory course](training/summer-training/introductory-course.md)
+  * [Basic courses](training/summer-training/basic-courses.md)
+  * [Advanced courses](training/summer-training/advanced-courses.md)
+  * [National courses](training/summer-training/national-courses.md)
+  * [Staff](training/summer-training/staff.md)
+
 ## Uniform standards
 
 * [Overview](uniform-standards/overview.md)
