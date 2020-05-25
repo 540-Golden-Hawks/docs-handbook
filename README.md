@@ -1,7 +1,3 @@
----
-description: Welcome
----
-
 # 540 Squadron Handbook
 
 ![](.gitbook/assets/540-crest-beveled.png)
