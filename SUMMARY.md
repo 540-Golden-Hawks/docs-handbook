@@ -10,7 +10,7 @@
   * [Cadets](organization/responsibilities/cadets.md)
   * [Staff Cadets](organization/responsibilities/staff-cadets.md)
 * [Staff structure](organization/chain-of-command.md)
-* [Program sponsorship](organization/program-sponsorship.md)
+* [Program sponsorship](organization/national-sponsorship.md)
 
 ## Training
 

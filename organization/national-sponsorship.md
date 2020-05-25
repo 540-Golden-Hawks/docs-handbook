@@ -1,6 +1,6 @@
 # Program sponsorship
 
-At the highest level, the Cadet Program is a partnership between two separate groups.
+The Cadet Program is a partnership between two separate groups.
 
 ## Department of National Defence \(DND\)
 
@@ -21,5 +21,5 @@ The Air Cadet League of Canada is a civilian, non-profit, community-based and vo
 2. To encourage the development of citizenship and leadership through enrichment activities such as effective speaking and music, community volunteer opportunities, and academic awards and scholarships; and
 3. To provide air cadet training as a means of promoting the efficiency of the armed forces.
 
-At the local level, the League is represented by the “540 Golden Hawks - Royal Canadian Air Cadet Squadron Sponsor Committee”, a registered charity, made up of parent volunteers and local professionals dedicating their time to the support of the Squadron. 
+At the local level, the League is represented by the “_540 Golden Hawks - Royal Canadian Air Cadet Squadron Sponsor Committee_”, a registered charity, made up of parent volunteers and local professionals dedicating their time to the support of the Squadron. 
 
