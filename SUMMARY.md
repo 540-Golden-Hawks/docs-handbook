@@ -30,6 +30,7 @@
 * [Code of Conduct](deportment/code-of-conduct.md)
 * [Appearance](deportment/appearance.md)
 * [Paying of compliments](deportment/paying-of-compliments.md)
+* [Disciplinary procedures](deportment/disciplinary-procedures.md)
 * [Electronic communication & social media](deportment/electronic-communication-and-social-media.md)
 
 ## Administration
