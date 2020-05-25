@@ -1,4 +1,4 @@
-# Responsibilities
+# Our Cadets
 
 All cadets are assigned a rank regardless of appointment.
 
