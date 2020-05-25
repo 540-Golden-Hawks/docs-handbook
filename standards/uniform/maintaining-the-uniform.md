@@ -11,7 +11,7 @@ The following tips will be useful to cadets in keeping their uniform to standard
 
 ## Dry cleaning
 
-* The wedge, tie and shoulder rank slip-ons must be dry-cleaned.  
+* Dry cleaning is optional. All parts of the uniform can be washed at home either by hand or in a washing machine.
 
 ## Ironing
 
