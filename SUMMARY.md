@@ -57,6 +57,12 @@
   * [Civilian attire](standards/uniform/civilian-attire.md)
   * [Religious or spiritual accomodation](standards/uniform/religious-or-spiritual-accomodation.md)
 
+## Parents
+
+* [Supporting your Cadet's development](parents/supporting-your-cadets-development.md)
+* [Staying informed](parents/staying-informed.md)
+* [Fundraisers](parents/fundraisers.md)
+
 ## Resources
 
 * [Cadet jargon](resources/cadet-jargon.md)
