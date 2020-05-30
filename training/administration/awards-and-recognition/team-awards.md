@@ -12,13 +12,13 @@ The cadet who has shown consistent interest and significant improvement througho
 
 ## Biathlon
 
-### Top Cadet
+### MVP
 
-Presented to the cadet who finished at competition with the highest overall scores for either Regional or Provincial Level competition.
+Presented to the cadet who has displayed the highest levels of dedication, skill, and leadership on the team.
 
-### Most Improved
+### Top Biathlete
 
-Presented to the cadet who has shown the greatest overall Improvement in their biathlon abilities in all of the skill areas required to compete.
+Presented to the cadet who accumulated the highest score for this year's Zone competition.
 
 ## Debate
 
@@ -58,11 +58,11 @@ Awarded to the Squadron's top effective speaker.
 
 ## Marksmanship
 
-### Top Cadet
+### MVP
+
+Presented to the cadet who has displayed the highest levels of dedication, skill, and leadership on the team.
+
+### Top Marksman
 
 Presented to the cadet who accumulated the highest score for this year's Zone competition.
-
-### Most Improved
-
-Presented to the cadet who has shown the greatest overall Improvement in their abilities.
 
