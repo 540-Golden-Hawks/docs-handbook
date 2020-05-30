@@ -6,3 +6,7 @@ Personnel are expected to interpret these orders intelligently, bearing in mind 
 
 Suggested modifications to the standards and orders contained within can be made in writing up the Chain of Command for review by the Training Officer.
 
+### References
+
+1. CJCR Dress Instructions, A-CR-CCO-100/AG-001
+
