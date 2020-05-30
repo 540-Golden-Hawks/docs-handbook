@@ -9,4 +9,5 @@ Suggested modifications to the standards and orders contained within can be made
 ### References
 
 1. CJCR Dress Instructions, A-CR-CCO-100/AG-001
+2. Cadet Code of Conduct
 
