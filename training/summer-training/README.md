@@ -4,7 +4,7 @@
 
 Summer Training, also erroneously known as “summer camp” is conducted at one of many Cadet Training Centre \(CTC\) across Ontario and Canada. Summer Training provides cadets with in depth and specialized knowledge to supplement their regular training. Courses run during July and August, and range from 2 to 7 weeks long. Some of the topics offered include aviation, leadership, fitness, marksmanship, survival, music, and more.
 
-Being selected to attend Summer Training is a competitive process and cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the squadron. Advanced courses such as the Glider and Power Pilot Scholarships and International Air Cadet Exchange courses require a more extensive application process including an interview with a selection committee comprised of members of the Air Cadet League of Canada and the Department of National Defence.
+Being selected to attend Summer Training is a competitive process and cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the squadron. Advanced courses such as the Glider and Power Pilot Training Courses  and International Air Cadet Exchange Courses require a more extensive application process including an interview with a selection committee comprised of members of the Air Cadet League of Canada and the Department of National Defence.
 
 Cadet summer training courses are broken up into the following categories:
 

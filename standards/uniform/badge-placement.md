@@ -76,7 +76,7 @@ Glider Pilot / Power Pilot pin may be purchased and worn on the jacket and colla
 
 Silver and Gold wire thread embroidered Glider Pilot / Power Pilot badges may be purchased by the cadet and are authorized for wear only on the uniform jacket in lieu of issued wings.
 
-If a cadet successfully completes both Scholarships, only the Power Pilot Wings shall be worn. The Glider Pilot Scholarship CTC Qualification Badge shall then be worn with the other CTC Qualification Badges.
+If a cadet successfully completes both Pilot Training Courses, only the Power Pilot Wings shall be worn. The Glider Pilot Training Course CTC Qualification Badge shall then be worn with the other CTC Qualification Badges.
 
 ![Glider Pilot Wings](https://lh5.googleusercontent.com/Z_LsaGWPl44anZk0dHeIpb5OQysEO_BdZnl-iKh3AXwZ14shPYFtU8dbGmFbzCcd80Ua5ta_biSwMLRGU9kpbJmNkTil2tu0YorbdN8bJVZUwNJnnIC4U7Go4fqshfkq6xp07V5u)
 

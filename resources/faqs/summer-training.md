@@ -8,7 +8,7 @@ Summer Training, also erroneously known as “summer camp” is conducted at one
 
 ### **What is the application process?**
 
-Being selected to attend Summer Training is a competitive process and Cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the Squadron. Advanced courses such as the Glider and Power Pilot Scholarships and International Air Cadet Exchange courses require a more extensive application process including an interview with a selection committee comprised of members of the Air Cadet League of Canada and the Department of National Defence.
+Being selected to attend Summer Training is a competitive process and Cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the Squadron. Advanced courses such as the Glider and Power Pilot Training Courses and International Air Cadet Exchange Courses require a more extensive application process including an interview with a selection committee comprised of members of the Air Cadet League of Canada and the Department of National Defence.
 
 ### **Does every cadet get to go to Summer Training?**
 

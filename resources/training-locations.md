@@ -47,7 +47,7 @@ Burlington
 
 #### Activity
 
-* Flying Scholarship
+* Ground School
 * PD days
 
 ### Sobeys

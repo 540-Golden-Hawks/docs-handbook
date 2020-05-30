@@ -20,7 +20,7 @@ The Air, Army, and Sea programs share many common goals such as the development 
 
 What the Air elemental academic training provides is a focus on aviation, aerospace, principles of flight, propulsion, meteorology, etc.
 
-Extra-curricular activities include the opportunity for all Cadets to experience glider familiarization flights, aviation themed trips, as well as the opportunity to receive a Glider Pilot Scholarship and/or Power Pilot Scholarship.
+Extra-curricular activities include the opportunity for all Cadets to experience glider familiarization flights, aviation themed trips, as well as the opportunity to attend Ground School to compete for an opportunity to receive a Glider Pilot License and/or Power Pilot License.
 
 ### As a parent of a Cadet, who do I ask my questions to?
 
