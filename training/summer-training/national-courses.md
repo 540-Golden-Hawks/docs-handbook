@@ -12,13 +12,13 @@ The aim of this course is to introduce cadets to aircraft construction and maint
 
 This course develop a specialist with the skills and subject matter knowledge required to be an instructor and team leader for aerospace activities within the Air Cadet program. This aim will be accomplished through the development of knowledge and skills relevant to various aspects of aerospace science and technology, and by providing ample opportunity for practical application within the format of a simulated space mission project. Candidates should show interest and ability for mathematics and physics.
 
-## Glider Pilot Scholarship \(GPS\)
+## Glider Pilot Training Course \(GPTC\)
 
-This seven-week course is an intensive programme of ground school and in-flight glider pilot training. Cadets who successfully complete their flight test and Transport Canada \(TC\) written exam will qualify for a Glider Pilot Licence and be awarded Air Cadet Glider Pilot Wings.
+This seven-week course is an intensive program of ground school and in-flight glider pilot training. Cadets who successfully complete their flight test and Transport Canada \(TC\) written exam will qualify for a Glider Pilot Licence and be awarded Air Cadet Glider Pilot Wings.
 
-## Power Pilot Scholarship \(PPS\)
+## Power Pilot Training Course \(PPTC\)
 
-This seven-week course is an intensive programme of ground school and in-flight pilot training. Cadets who successfully complete their flight test and Transport Canada \(TC\) written exam will qualify for a Private Pilot Licence and be awarded Air Cadet Pilot Wings.
+This seven-week course is an intensive program of ground school and in-flight pilot training. Cadets who successfully complete their flight test and Transport Canada \(TC\) written exam will qualify for a Private Pilot Licence and be awarded Air Cadet Pilot Wings.
 
 ## International Air Cadet Exchange \(IACE\)
 
