@@ -12,6 +12,8 @@ This handbook is split into the following sections:
 4. **Parents** A set of pages oriented towards our parent community to help them support their Cadet's development through the program, as well how to get involved and support the program themselves.
 5. **Resources** Contains FAQs, reference documents, and other relevant referential information.
 
+Cadets are required to review the section on Standards. All are encouraged to use the search function when trying to find information on a specific topic.
+
 Suggested modifications to this document can be made in writing up the Chain of Command to the Commanding Officer for review and approval.
 
 **M. LaCombe, CD**
