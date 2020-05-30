@@ -21,7 +21,7 @@
   * [Teams](training/extra-curriculars/teams.md)
   * [Duke of Edinburgh's Award](training/extra-curriculars/duke-of-edinburghs-award.md)
   * [March Break trip](training/extra-curriculars/march-break-trip.md)
-  * [Pilot training program](training/extra-curriculars/flying-scholarship-program.md)
+  * [Pilot training program](training/extra-curriculars/pilot-training-program.md)
   * [Algonquin canoe trip](training/extra-curriculars/algonquin-canoe-trip.md)
 * [Summer training](training/summer-training/README.md)
   * [Introductory course](training/summer-training/introductory-course.md)
