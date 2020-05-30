@@ -10,7 +10,7 @@ This handbook is split into the following sections:
 2. **Training** Reference material on the cadet program, including how the Squadron operates on any given Tuesday training night, extracurricular opportunities, summer training, and more.
 3. **Standards** A set of mandatory standards that all members of the Squadron must follow such as how to wear and maintain the uniform as well as rules around appearance, behaviour, and conduct.
 4. **Parents** A set of pages oriented towards our parent community to help them support their Cadet's development through the program, as well how to get involved and support the program themselves.
-5. **Resources**
+5. **Resources** Contains FAQs, reference documents, and other relevant referential information.
 
 Suggested modifications to this document can be made in writing up the Chain of Command to the Commanding Officer for review and approval.
 

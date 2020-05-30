@@ -59,12 +59,16 @@
 
 ## Parents
 
-* [Supporting your Cadet's development](parents/supporting-your-cadets-development.md)
+* [General](parents/general.md)
 * [Staying informed](parents/staying-informed.md)
 * [Fundraisers](parents/fundraisers.md)
 
 ## Resources
 
+* [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
+  * [Recruit training](resources/frequently-asked-questions/recruit-training.md)
+  * [General training](resources/frequently-asked-questions/general-training.md)
+  * [Summer training](resources/frequently-asked-questions/summer-training.md)
 * [Cadet jargon](resources/cadet-jargon.md)
 * [Documents](resources/documents.md)
 * [Training locations](resources/training-locations.md)
