@@ -42,6 +42,7 @@
 
 ## Standards
 
+* [General](standards/general.md)
 * [Deportment](standards/deportment/README.md)
   * [Appearance](standards/deportment/appearance.md)
   * [Code of Conduct](standards/deportment/code-of-conduct.md)
