@@ -65,10 +65,10 @@
 
 ## Resources
 
-* [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
-  * [Recruit training](resources/frequently-asked-questions/recruit-training.md)
-  * [General training](resources/frequently-asked-questions/general-training.md)
-  * [Summer training](resources/frequently-asked-questions/summer-training.md)
+* [Frequently Asked Questions](resources/faqs/README.md)
+  * [Recruit training](resources/faqs/recruit-training.md)
+  * [General training](resources/faqs/general-training.md)
+  * [Summer training](resources/faqs/summer-training.md)
 * [Cadet jargon](resources/cadet-jargon.md)
 * [Documents](resources/documents.md)
 * [Training locations](resources/training-locations.md)
