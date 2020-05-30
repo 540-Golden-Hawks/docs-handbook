@@ -67,6 +67,7 @@
 ## Resources
 
 * [Frequently Asked Questions](resources/faqs/README.md)
+  * [Enrolment](resources/faqs/enrolment.md)
   * [Recruit training](resources/faqs/recruit-training.md)
   * [General training](resources/faqs/general-training.md)
   * [Summer training](resources/faqs/summer-training.md)
