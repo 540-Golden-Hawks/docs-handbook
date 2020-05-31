@@ -12,7 +12,7 @@ Being selected to attend Summer Training is a competitive process and Cadets are
 
 ### **Does every cadet get to go to Summer Training?**
 
-Approximately 20,000 cadets across Canada are selected to attend summer training. As such, cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the squadron. National courses such as the Glider and Power Pilot Scholarships and International Exchange require a more extensive application process and include an interview.
+Approximately 20,000 cadets across Canada are selected to attend summer training. As such, cadets are required to apply and go through a selection process that is based on several factors such as their attendance records, participation in squadron activities, and performance within the squadron. National courses such as the Glider and Power Pilot Training Courses and International Exchange require a more extensive application process and include an interview.
 
 ### **Can we request a specific course serial?**
 
