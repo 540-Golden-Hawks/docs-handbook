@@ -1,7 +1,5 @@
 # Acronyms and definitions
 
-
-
 | Acronym | Explanation |
 | :--- | :--- |
 | 2IC | Second in command |
@@ -14,14 +12,14 @@
 | DND | Department of National Defence |
 | Dress | What to wear |
 | Flag Party | The Cadet Flag Party is symbolic of a military Colour Party or Colour Guard and serves a similar function. By carrying the Squadron Banner on parade they represent the entire Squadron and are treated with the utmost respect. As a sign of respect and reverence all members of the parade stand at attention when the Flag Party is marched on or off the parade. Similarly, spectators are asked to stand for the duration of the event. |
-| Flight | Basic formation of approximately 30 Cadets |
+| Flight | Basic formation of approximately 30 Cadets. |
 | FTX | Field Training Exercise - An FTX is an outdoor camping weekend where Cadets learn and practice survival skills, first aid, map and compass, radio communication, and more. |
-| Mess Dinner | A formal dinner following the traditions of the Royal Canadian Air Force |
+| Mess Dinner | A formal dinner following the traditions of the Royal Canadian Air Force. |
 | NCM | Non-Commissioned Member |
-| OIC | Officer in Charge - Staff member with overall responsibility for an activity |
-| Operation |  |
-| OPI | Officer of Primary Interest - Staff member in charge of running an activity |
+| OIC | Officer in Charge - Staff member with overall responsibility for an activity. |
+| Operation | Name assigned to a particular event. |
+| OPI | Officer of Primary Interest - Staff member in charge of running an activity. |
 | PSRY | Positive Social Relations for Youth |
 | RCAF | Royal Canadian Air Force |
-| Sqn | Squadron - A formation of multiple flights |
+| Sqn | Squadron - A formation of multiple flights. |
 
