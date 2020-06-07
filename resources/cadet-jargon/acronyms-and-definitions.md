@@ -1,7 +1,3 @@
----
-description: All the jargon...
----
-
 # Acronyms and definitions
 
 | Acronym | Explanation |
