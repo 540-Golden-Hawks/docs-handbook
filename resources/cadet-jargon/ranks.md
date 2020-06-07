@@ -17,5 +17,11 @@
 
 | Rank | Abbreviation |
 | :--- | :--- |
-|  |  |
+| Colonel | Col |
+| Lieutenant Colonel | LCol |
+| Major | Maj |
+| Captain | Capt |
+| Lieutenant | Lt |
+| Second Lieutenant | 2Lt |
+| Officer Cadet | OCdt |
 
