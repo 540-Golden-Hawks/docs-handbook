@@ -1,5 +1,7 @@
 # Ranks
 
+Note that military ranks do not have a period after the abbreviation.
+
 ## Cadet ranks
 
 | Rank | Abbreviation |
@@ -17,6 +19,10 @@
 
 | Rank | Abbreviation |
 | :--- | :--- |
+| General | Gen |
+| Lieutenant General | LGen |
+| Major General | MGen |
+| Brigadier General | BGen |
 | Colonel | Col |
 | Lieutenant Colonel | LCol |
 | Major | Maj |
