@@ -1,4 +1,4 @@
-# General training
+# Weekly training
 
 ## Cadet program
 
