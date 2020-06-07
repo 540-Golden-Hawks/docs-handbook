@@ -72,6 +72,7 @@
   * [General training](resources/faqs/general-training.md)
   * [Summer training](resources/faqs/summer-training.md)
 * [Cadet jargon](resources/cadet-jargon/README.md)
+  * [Acronyms and definitions](resources/cadet-jargon/acronyms-and-definitions.md)
   * [Ranks](resources/cadet-jargon/ranks.md)
 * [Documents](resources/documents.md)
 * [Training locations](resources/training-locations.md)
