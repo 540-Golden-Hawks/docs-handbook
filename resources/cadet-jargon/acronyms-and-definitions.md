@@ -1,6 +1,6 @@
 # Acronyms and definitions
 
-| Acronym | Explanations |
+| Acronym | Explanation |
 | :--- | :--- |
 | 2IC | Second in command |
 | ACR | Annual Ceremonial Review |
