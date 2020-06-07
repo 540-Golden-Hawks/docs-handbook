@@ -15,7 +15,7 @@ At the local level, the DND is represented by approximately 10 Commissioned Offi
 
 ## Air Cadet League of Canada
 
-The Air Cadet League of Canada is a civilian, non-profit, community-based and volunteer-led organization that in collaboration with the Department of National Defence and our other partners, is dedicated to supporting the objectives of the Royal Canadian Air Cadet program. The purposes of the League are to advance the education of the Air Cadets and to promote an interest in the air element of the Canadian Forces, specifically:
+The Air Cadet League of Canada is a civilian, non-profit, community-based and volunteer-led organization that in collaboration with the Department of National Defence and other partners, is dedicated to supporting the objectives of the Royal Canadian Air Cadet program. The purposes of the League are to advance the education of the Air Cadets and to promote an interest in the air element of the Canadian Forces, specifically:
 
 1. To increase knowledge of aviation by providing educational programs and resources, including flight and ground crew training, guided visits to science and aviation facilities, and aviation-related awards and scholarships;
 2. To encourage the development of citizenship and leadership through enrichment activities such as effective speaking and music, community volunteer opportunities, and academic awards and scholarships; and
