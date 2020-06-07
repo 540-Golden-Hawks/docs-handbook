@@ -1,4 +1,4 @@
-# Program sponsorship
+# Program leadership
 
 The Cadet Program is a partnership between two separate groups.
 

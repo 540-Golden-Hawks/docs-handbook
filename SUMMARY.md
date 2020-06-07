@@ -9,7 +9,7 @@
 * [Our Squadron](organization/our-squadron.md)
 * [Duties & responsibilities](organization/duties-and-responsibilities.md)
 * [Staff structure](organization/staff-structure.md)
-* [Program sponsorship](organization/program-sponsorship.md)
+* [Program leadership](organization/program-sponsorship.md)
 
 ## Training
 
