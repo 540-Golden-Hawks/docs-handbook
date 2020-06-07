@@ -1,26 +1,25 @@
 # Cadet jargon
 
-### CO's Parade
-
-Commanding Officer’s Parades are performed on the first Tuesday of every month. They are an opportunity for the CO to inspect each Cadet and the Squadron as a whole. All Cadets are expected to attend these evenings and to look as sharp as possible. 
-
-### Flag party
-
-The Cadet Flag Party is symbolic of a military Colour Party or Colour Guard and serves a similar function. By carrying the Squadron Banner on parade they represent the entire Squadron and are treated with the utmost respect. As a sign of respect and reverence all members of the parade stand at attention when the Flag Party is marched on or off the parade. Similarly, spectators are asked to stand for the duration of the event.
-
-### Flight
-
-A basic formation of approximately 30 Cadets, normally formed in three ranks, having a right marker, a Flight Commander and a Flight 2IC.
-
-### FTX
-
-A Field Training Exercise, i.e. a camping weekend where cadets learn and practice survival skills, first aid, map and compass, radio communication, and more.
-
-### Parade square
-
-The Cadets form up on the parade square to open and close each training night. 
-
-The Squadron Warrant Officer, or designate, is in command of the entire Squadron and stands at the front and centre of the parade square. On a typical training night the Squadron is formed up in four columns, representing the four training levels, with Level Warrant Officers in front of each level and each level’s Staff Cadet dispersed throughout their level. From the perspective of the members on parade, Level 1 is on the left and Level 4 is on the right.
-
-Other groups on the parade square will include a Flag Party, Guard, and a band.
+| Acronym | Explanation |
+| :--- | :--- |
+| 2IC | Second in command |
+| ACR | Annual Ceremonial Review |
+| CAF | Canadian Armed Forces |
+| CI | Civilian Instructor |
+| CO | Commanding Officer |
+| CO's Parade | Commanding Officer's Parade - CO's Parades are performed on a monthly basis. They are an opportunity for the CO to inspect each Cadet and the Squadron as a whole. All Cadets are expected to attend these evenings and to look as sharp as possible.  |
+| DCO | Deputy Commanding Officer |
+| DND | Department of National Defence |
+| Dress | What to wear |
+| Flag Party | The Cadet Flag Party is symbolic of a military Colour Party or Colour Guard and serves a similar function. By carrying the Squadron Banner on parade they represent the entire Squadron and are treated with the utmost respect. As a sign of respect and reverence all members of the parade stand at attention when the Flag Party is marched on or off the parade. Similarly, spectators are asked to stand for the duration of the event. |
+| Flight | Basic formation of approximately 30 Cadets. |
+| FTX | Field Training Exercise - An FTX is an outdoor camping weekend where Cadets learn and practice survival skills, first aid, map and compass, radio communication, and more. |
+| Mess Dinner | A formal dinner following the traditions of the Royal Canadian Air Force. |
+| NCM | Non-Commissioned Member |
+| OIC | Officer in Charge - Staff member with overall responsibility for an activity. |
+| Operation | Name assigned to a particular event. |
+| OPI | Officer of Primary Interest - Staff member in charge of running an activity. |
+| PSRY | Positive Social Relations for Youth |
+| RCAF | Royal Canadian Air Force |
+| Sqn | Squadron - A formation of multiple flights. |
 
