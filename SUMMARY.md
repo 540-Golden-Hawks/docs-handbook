@@ -69,7 +69,7 @@
 * [Frequently Asked Questions](resources/faqs/README.md)
   * [Enrolment](resources/faqs/enrolment.md)
   * [Recruit training](resources/faqs/recruit-training.md)
-  * [Weekly training](resources/faqs/general-training.md)
+  * [Weekly training](resources/faqs/weekly-training.md)
   * [Summer training](resources/faqs/summer-training.md)
 * [Cadet jargon](resources/cadet-jargon/README.md)
   * [Acronyms and definitions](resources/cadet-jargon/acronyms-and-definitions.md)
