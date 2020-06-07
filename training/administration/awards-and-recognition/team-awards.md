@@ -44,11 +44,11 @@ The cadet who has shown consistent interest and significant improvement througho
 
 ### MVP
 
-Awarded to the cadet who shows true dedication and success on the team.
+Awarded to the cadet who shows consistent dedication to the success of the team through their enthusiasm and leadership. They’ve used their skills to guide and encourage their peers throughout the training year.
 
 ### Most Improved
 
-The cadet who has shown consistent interest and significant improvement throughout the training year
+Awarded to the cadet that, through hard work and dedication, has showed significant improvement to their drill through the training year and has been enthusiastic about learning new things.
 
 ## Effective Speaking
 
