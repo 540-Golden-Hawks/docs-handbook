@@ -22,7 +22,7 @@ To qualify for this Award, a serving Cadet must have successfully completed four
 
 _“Major Lisa A. La Combe, CD, Sword of Honour”_
 
-Awarded to the cadet who has demonstrated excellence in all aspects of the cadet training program as determined by the commanding officer
+Awarded to the cadet who has demonstrated excellence in all aspects of the cadet training program as determined by the Commanding Officer.
 
 ### Top Enthusiasm
 
@@ -34,7 +34,7 @@ Awarded to the NCM who has demonstrated effusive enthusiasm and drive throughout
 
 _“Major John Scott Junior NCM Award”_
 
-Presented to the Cpl, FCpl, or Sgt who demonstrated significant personal development and consideration for others
+Presented to the Cpl, FCpl, or Sgt who demonstrated significant personal development and consideration for others.
 
 ### Top Overall Staff Cadet
 
@@ -44,7 +44,7 @@ _Note: The intent is that this award is presented to a Staff Cadet in recognitio
 
 ### Top Flight
 
-Awarded to the Flight who has demonstrated a high level of esprit de corps, commadery, and a unique sense of pride within the Squadron. 
+Awarded to the Flight who has demonstrated a high level of esprit de corps, comradery, and a unique sense of pride within the Squadron. 
 
 _Note: The intent of this award is to encourage a healthy and positive competition between flights on the parade square during appropriate periods within opening and closing parades by way of “attitude checks” and related behaviour._
 
