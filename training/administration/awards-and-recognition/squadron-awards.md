@@ -60,7 +60,7 @@ Awarded to the Squadron's Drum Major in recognition of exemplary performance in 
 
 _“The Parker / I’Anson Award”_
 
-Awarded to the Squadron's Drill Team with and without Arms Commanders in recognition of exemplary performance in a command position.
+Awarded to the Commanders of the Squadron's Drill with and without Arms Teams in recognition of exemplary performance in a command position.
 
 ## Service awards
 
