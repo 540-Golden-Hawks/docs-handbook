@@ -24,6 +24,12 @@ _“Major Lisa A. La Combe, CD, Sword of Honour”_
 
 Awarded to the cadet who has demonstrated excellence in all aspects of the cadet training program as determined by the Commanding Officer.
 
+### Top Overall Staff Cadet
+
+Awarded to the Staff Cadet who stands out from their peers by demonstrating the highest level of leadership ability when interacting with their cadets and peers.
+
+_Note: The intent is that this award is presented to a Staff Cadet in recognition of their performance at the rank of WO2 for the duration of the year._
+
 ### Top Enthusiasm
 
 _“Major Brierley Enthusiasm Award”_
@@ -35,12 +41,6 @@ Awarded to the NCM who has demonstrated effusive enthusiasm and drive throughout
 _“Major John Scott Junior NCM Award”_
 
 Presented to the Cpl, FCpl, or Sgt who demonstrated significant personal development and consideration for others.
-
-### Top Overall Staff Cadet
-
-Awarded to the Staff Cadet who stands out from their peers by demonstrating the highest level of leadership ability when interacting with their cadets and peers.
-
-_Note: The intent is that this award is presented to a Staff Cadet in recognition of their performance at the rank of WO2 for the duration of the year._
 
 ### Top Flight
 
