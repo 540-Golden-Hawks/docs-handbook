@@ -26,7 +26,7 @@ Awarded to the cadet who has demonstrated excellence in all aspects of the cadet
 
 ### Top Overall Staff Cadet
 
-Awarded to the Staff Cadet who stands out from their peers by demonstrating the highest level of leadership ability when interacting with their cadets and peers.
+Awarded to the Staff Cadet who stands out from their peers by demonstrating the highest level of leadership, dedication, and professionalism when interacting with their Cadets, peers, and Officers.
 
 _Note: The intent is that this award is presented to a Staff Cadet in recognition of their performance at the rank of WO2 for the duration of the year._
 
