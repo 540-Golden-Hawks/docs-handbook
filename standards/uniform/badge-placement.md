@@ -4,19 +4,19 @@
 
 ### **Right sleeve**
 
-![Right sleeve](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/right-sleeve.png)
 
 ### **Left sleeve**
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/left-sleeve.png)
 
 ### **Right pocket**
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/right-pocket.png)
 
 ### **Left pocket**
 
-![](https://lh4.googleusercontent.com/s-1Nyc2TN01XYH7O0091XAqZjm3Y5QxABc4WCBsI45muQRiDxxFKzVprGDceMfBgv_okTn9D4Mgi2O0f_AsEje5ejdkWKQdCdE0PBHwtKGBIDXJ2HIljTipYoEd_tO12Tp1yVAlB)
+![](../../.gitbook/assets/left-pocket.png)
 
 ## Jacket sleeves
 
@@ -28,7 +28,7 @@ This badge is worn at the top of both sleeves of the jacket. The top of the badg
 
 Rank badges are worn centred, level to the ground, and mid-way between the bent elbow and the upper shoulder seam.
 
-![](https://lh3.googleusercontent.com/P7FXwU0-zybxPoZxgk4l4uZKK5HEzRpwdgTOTDAU-SDk1DyzzySqwF-y5BvGRwWwtHozDU16Ly2ei0mkfYMIXZ1btIR7AQ3CSNe49HzeXc6pSqyrpUy8-k_8pAwo1_GewXuMT53b)
+![](../../.gitbook/assets/lac-placement.png)
 
 ## Right breast pocket
 
@@ -62,7 +62,7 @@ The pin is worn on the jacket only.
 
 | Bronze | Silver | Gold |
 | :---: | :---: | :---: |
-| ![](https://lh4.googleusercontent.com/xjfDlykUFWWzIjWFjR0MWcmc2RPPNki1UGCkAKHYQA7Z-J43asn882Ovdz-QL8AyqMYbwiRjMEG8wSIZwtlU_j0h8EnZ1kkhIHOQEaRhgoT11m_sZ2WxWptvJ0dX7hUSts1BqVV9) | ![](https://lh4.googleusercontent.com/AxVzoODZNpHsz8Ii6YrIrlRhVdyESAcf6-tDgYR4avCyYFmObmjvkEfyA8J6IHKlBtlxw0gfrKEp4mS-puBlg81mMLXlX0G_Zpvh_JL_MJj4vlQJpJuIaZWlgXN7QNZexKP8yQRr) | ![](https://lh5.googleusercontent.com/KM3ehBiG0QKnGCp1B7M3-zqfIGE3vuzz5bLZr33d374JgrFOREDZQA1AibyaPISA7DU2E0nyki1S36QDWiSw_QLhJwDimHvf5WFlADUZ-pZk9tg2Htzn-agN-GUMb22Yv4NCHI6u) |
+| ![](../../.gitbook/assets/doe-bronze.png) | ![](../../.gitbook/assets/doe-silver.png) | ![](../../.gitbook/assets/doe-gold.png) |
 
 ## Left breast pocket
 
@@ -78,11 +78,11 @@ Silver and Gold wire thread embroidered Glider Pilot / Power Pilot badges may be
 
 If a cadet successfully completes both Pilot Training Courses, only the Power Pilot Wings shall be worn. The Glider Pilot Training Course CTC Qualification Badge shall then be worn with the other CTC Qualification Badges.
 
-![Glider Pilot Wings](https://lh5.googleusercontent.com/Z_LsaGWPl44anZk0dHeIpb5OQysEO_BdZnl-iKh3AXwZ14shPYFtU8dbGmFbzCcd80Ua5ta_biSwMLRGU9kpbJmNkTil2tu0YorbdN8bJVZUwNJnnIC4U7Go4fqshfkq6xp07V5u)
+![Glider Pilot Wings](../../.gitbook/assets/pilot-glider.png)
 
-![Glider Pilot CTC badge](https://lh3.googleusercontent.com/tScyQNgWA3llnoNHSATAyZQUjUbhhXtzPQOC7IHoasCbmzeKeswSSlZDUE0pPliZ1cEAe4UwliRJtY9Ogcb7Zvzm6lnAXRilCWishYc2zGGD3cbjYkJ7ntCGQ1uxmvxnTWUN9qN9)
+![Glider Pilot CTC badge](../../.gitbook/assets/pilot-glider-ctc.png)
 
-![Power Pilot Wings](https://lh6.googleusercontent.com/x1_tZ4URRgyBOrf1be7gWziGtclcB2lP8JBf7lZ2HA5VZtBHGRGVicoZa78LrmHs3TmELj1KKaDLUEDxZcz7OSi2YlkbBS_i_3OsxpoIVEnrcxlkxwgiclx6ussjAr-5xFG0_Jvx)
+![Power Pilot Wings](../../.gitbook/assets/pilot-power.png)
 
 ### Effective Speaking Pins
 
@@ -90,7 +90,7 @@ Worn centred on the left jacket pocket, equidistant between the lower seam and t
 
 | Zone Bronze | Provincial Silver | National Gold |
 | :---: | :---: | :---: |
-| ![](https://lh4.googleusercontent.com/_AoFcza_zmaAOCUqv12skh01Ul0Q5qWqk7i2tfRSeLqUzxx58tqWJ3uUBflUkSSIDjFOSK5dGeY46CDb42wCIWwc89YCAVxvVXNLbNglhFFx9Ahorq_omPYxecZiyUKeAIEk2LOi) | ![](https://lh3.googleusercontent.com/7Pq30yYw5wikfwniNJK_clL1VBk_5DfzGxCCu-W5P1ympP-H152UheVWEI6u2Bg8l5l3x3V52yadbLxzeizN_rxqPLRQc1j6_ua0y8JyvmgnqjjsMXkm6u14LHMW2fNpTFoiVVOp) | ![](https://lh4.googleusercontent.com/H5CdRRZsee-rBuCniu-QdCKU6nugSemZ13zEJZxnrHNfvSESQE3bZRm-GRKotNzd5BvB6A3Y5qnXep7YYIT65sBj8vUCtu9ImZvmjmRIlh4JezZWAMT281gUHJTExBgIzNRCXnwH) |
+| ![](../../.gitbook/assets/effective-speaking-bronze.png) | ![](../../.gitbook/assets/effective-speaking-silver.png) | ![](../../.gitbook/assets/effective-speaking-gold.png) |
 
 ### Marksmanship & Biathlon
 
@@ -100,13 +100,13 @@ Worn centred on the left jacket pocket, equidistant between the lower seam and t
 
 | Zone Bronze | Provincial Silver | National Gold |
 | :---: | :---: | :---: |
-| ![](https://lh4.googleusercontent.com/w0ADMEYpbheU6Sd9MH2mAljOSCa-yUisQy9qhfvuKgv02wPsl4T53bTY8gSHwO1PoKTA_XW9_jG3Zhkrx_-ctyR2AHfzX-aIStdBAlexy5eMa9sZ3bIHhL2z3hiEtcCoUgecXw4C) | ![](https://lh4.googleusercontent.com/MrlinwaPSRF9_7HphQ3p24G4YyzM6FolCLPbNYvz1gg3vbCY4-ZY72kr8T9MDyDYQgB3wc_Voig89_5rpPWvmP4EYwtDLHRRU92tdmDA8U1DSD3kCvDmZb_aUEjsgV_Lhc5fp_Jq) | ![](https://lh6.googleusercontent.com/CKDyTVoWW2Pcnu5xgpdeEPr_ODpfS4xHgTuUgqzs5kq4yUXXPEfKGX6G8rC1Dw3LhOVMXmE7dnZmDoE6VsTQp7yQPlYDxc9h02vER8sDP-OPGuimHBJhPJlo6uZTo6Z4d764X7gk) |
+| ![](../../.gitbook/assets/marksmanship-bronze.png) | ![](../../.gitbook/assets/marksmanship-silver.png) | ![](../../.gitbook/assets/marksmanship-gold.png) |
 
 #### **Biathlon**
 
 | **Zone Bronze** | **Provincial Silver** | **National Gold** |
 | :---: | :---: | :---: |
-| ![](https://lh3.googleusercontent.com/yJV3n0jWLf-4du_pBxoQDOi3snLWbn3Yzd2uVtTppIIYNQMYJQSj9i-KcbgqOcdljAOzKF7Ktm_Aulm3TUiHtnPE0pQ6I2BZXWpasg5gz4FB874_PbHZAzd1BTC42Mmpq4yCfiIB) | ![](https://lh5.googleusercontent.com/RFTwMbCoNCGSETbsotS3lZFUagI105CdIDES5Vl17yNCnlsyrIEStMw11tsIcgijOKFTsghWlMl3qlOrSRJlqisxtOn5PMq3LCVAO7auyc_X9pdq0_psR_Hdp36a-XmkmH6IVBHh) | ![](https://lh6.googleusercontent.com/pDMwX5PwO1-Q32ntIqSuRQ3wwm_J7ThVbYwEMWI-2qC1_pIV76-ppEIAuJKw6hpseQKzDvi0Fwf0TQpdTQe_KTGeBs1DatRAM-W_ERKMOSFBjMzU_hFgCIbFgaFLwbgAmBC-eIdn) |
+| ![](../../.gitbook/assets/biathlon-bronze.png) | ![](../../.gitbook/assets/biathlon-silver.png) | ![](../../.gitbook/assets/biathlon-gold.png) |
 
 ## Right sleeve
 
@@ -138,5 +138,5 @@ The following qualification badges can be worn on the left sleeve:
 
 As depicted.
 
-![Wear of the Poppy](https://lh3.googleusercontent.com/G8k6fSP28nfUpuhV7O3OFXZ7MirvXnwzh5WYMT81p_EYakuqC7nTDlNtMdjtzGqA1--pC71RVDJrDYUsfDdS3qBk_vw8KbbAu1_c6Vy-jZwdzl3bG5pDFUPNKR2JjpcPIwtZQL-4)
+![Wear of the Poppy](../../.gitbook/assets/poppy.png)
 
