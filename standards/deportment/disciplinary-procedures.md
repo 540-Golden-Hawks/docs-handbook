@@ -24,5 +24,3 @@ If a Cadet has a problem that they feel can not or should not be handled by a Ca
 
 If a Cadet feels they have been wrongly penalized they may submit their grievances in writing for review by the Commanding Officer. The request must be substantiated and thoroughly detailed. Once reviewed by the Commanding Officer, an interview will be conducted to determine if the appropriate action was taken. The decision of the Commanding Officer is final.
 
-
-

@@ -4,15 +4,15 @@
 
 ### **Right sleeve**
 
-![](https://lh3.googleusercontent.com/ca_pUajtm4hu54TlMB1nyYiBsF5DCKukMJbN13vUEP8vtNNdg9odFcxfXFVduA-HwFpI1jHV5RYZZ5AOoFol9hencGv3CGpQV7OT62QiMDrhSKSb1GGlYyjdm-8UUBKPMVgcR4hV)
+![](../../.gitbook/assets/image.png)
 
 ### **Left sleeve**
 
-![](https://lh4.googleusercontent.com/td8ZcT4gykqzFVZPbnGpStvaXhyLuOcN4C1nOdYZfbXX0WjK2z-_Cm6zWGOUWmfYhi-vgDdP7N-ab1woqQN8QqI5kWRVfSciWsjNwQBxsuUuMHLzqIDRfJC_KgyLhmsVYZm5eV9w)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### **Right pocket**
 
-![](https://lh3.googleusercontent.com/tKeHWawIqj9kh1Qr2ppVtiP5oW-i64uHL6d-vjnEDBD7pLym7hdWE9TU4S-8KgzJMlG7WMaGmNu5Dj7aPQl77w-__FS89dp6CFk1HakcsTKM1uVMpJpt8BZszg8fqajYDeMOOS2v)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 ### **Left pocket**
 
