@@ -4,7 +4,7 @@
 
 ### **Right sleeve**
 
-![](../../.gitbook/assets/image.png)
+![Right sleeve](../../.gitbook/assets/image.png)
 
 ### **Left sleeve**
 
