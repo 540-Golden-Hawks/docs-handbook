@@ -8,5 +8,3 @@ The following procedure should be followed when a Cadet leaves the Squadron for 
 4. If required, the Cadet’s parents will be contacted to discuss the reasons for their child’s departure from the squadron
 5. The Officer who conducts the exit interview will inform AdminO of the SOS \(struck off strength\) date
 
-
-
