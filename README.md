@@ -16,8 +16,9 @@ Cadets are required to review the section on Standards. All are encouraged to us
 
 Suggested modifications to this document can be made in writing up the Chain of Command to the Commanding Officer for review and approval.
 
-**Captain Neil DePass**
+**M. LaCombe, CD**
 
+Major  
 Commanding Officer  
 540 Golden Hawks Royal Canadian Air Cadet Squadron  
 Canadian Armed Forces  
