@@ -41,6 +41,6 @@ description: 'Published: 4 November 2020'
 > “Squadron Sponsoring Committees that have adopted the Registration /Assessment Fee structure as part of its’ fund raising activity must allow cadets to join if the parent cannot pay the fee due to financial hardship. Hardship cases must be kept private between the parent and the SSC Chair or designate. Cadets are not to be excluded from any authorized activity.”
 
 {% hint style="warning" %}
-**TODO** - Insert link to referenced Commander directive on financial support.
+**TODO:** Insert link to referenced Commander directive on financial support.
 {% endhint %}
 
