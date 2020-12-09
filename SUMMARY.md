@@ -66,7 +66,6 @@
 * [Sponsoring Committee Policies](parents/sponsoring-committee-policies/README.md)
   * [1 - Registration Refund Policy](parents/sponsoring-committee-policies/1-registration-refund-policy.md)
   * [2 - Financial Support to Cadets](parents/sponsoring-committee-policies/2-financial-support-to-cadets.md)
-  * [3 - National Training Courses and Exchanges Policy](parents/sponsoring-committee-policies/3-national-training-courses-and-exchanges-policy.md)
 
 ## Resources
 

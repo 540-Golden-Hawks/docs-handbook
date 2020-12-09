@@ -31,7 +31,7 @@ description: 'Published: 4 November 2020'
 
 ## Maintaining dignity and privacy 
 
-1. The name of the Cadet receiving the funds will be treated in confidence in order to maintain the dignity and privacy of Cadet families in need in line with the Commander of the National Cadet and Junior Rangers Support Group Directive \(20 Feb 2019\).
+1. The name of the Cadet receiving the funds will be treated in confidence in order to maintain the dignity and privacy of Cadet families in need in line with the "Fund-raising at Cadet Corps and Squadrons" directive issued by Commander, National Cadet and Junior Canadian Rangers Support Group \(20 Feb 2019\).
 2. Parents of Cadets receiving financial assistance will treat the financial assistance in confidence.
 
 ## References
@@ -40,7 +40,8 @@ description: 'Published: 4 November 2020'
 
 > “Squadron Sponsoring Committees that have adopted the Registration /Assessment Fee structure as part of its’ fund raising activity must allow cadets to join if the parent cannot pay the fee due to financial hardship. Hardship cases must be kept private between the parent and the SSC Chair or designate. Cadets are not to be excluded from any authorized activity.”
 
-{% hint style="warning" %}
-**TODO:** Insert link to referenced Commander directive on financial support.
-{% endhint %}
+#### "Fund-raising at Cadet Corps and Squadrons" 
+
+Directive issued by Commander, National Cadet and Junior Canadian Rangers Support Group \(20 Feb 2019\)  
+[https://drive.google.com/file/d/1XciGfMGZEuqpbJ4FjCaE4h\_lRGbK9GcE/](https://drive.google.com/file/d/1XciGfMGZEuqpbJ4FjCaE4h_lRGbK9GcE/view?usp=sharing)
 
