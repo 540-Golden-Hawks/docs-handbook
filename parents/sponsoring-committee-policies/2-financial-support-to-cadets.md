@@ -31,7 +31,7 @@ description: 'Published: 4 November 2020'
 
 ## Maintaining dignity and privacy 
 
-1. The name of the Cadet receiving the funds will be treated in confidence in order to maintain the dignity and privacy of Cadet families in need in line with the Commander of the National Cadets and Junior Canadian Rangers' directive \(20 Feb 2019\).
+1. The name of the Cadet receiving the funds will be treated in confidence in order to maintain the dignity and privacy of Cadet families in need in line with the Commander of the National Cadet and Junior Rangers Support Group Directive \(20 Feb 2019\).
 2. Parents of Cadets receiving financial assistance will treat the financial assistance in confidence.
 
 ## References
