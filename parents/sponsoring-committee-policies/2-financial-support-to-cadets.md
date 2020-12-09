@@ -22,7 +22,7 @@ description: 'Published: 4 November 2020'
 ## Funding the Program 
 
 1. The SSC will ensure that funds are available to allow fees to be paid by Squadron funds on behalf of cadets requiring financial assistance. 
-2. These funds will be segregated from the Squadron account \(separate line item\) 
+2. These funds will be segregated from the Squadron account \(separate line item\).
 3. These funds will be sourced from:
    1. Donations with a specific request to support Cadets 
    2. A percentage of any surplus in the Squadron current account at the end of the training year
