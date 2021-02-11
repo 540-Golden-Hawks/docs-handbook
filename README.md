@@ -16,7 +16,7 @@ Cadets are required to review the section on Standards. All are encouraged to us
 
 Suggested modifications to this document can be made in writing up the Chain of Command to the Commanding Officer for review and approval.
 
-**M. LaCombe, CD**
+**N. DePass**
 
 Major  
 Commanding Officer  
