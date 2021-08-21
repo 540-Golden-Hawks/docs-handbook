@@ -17,6 +17,10 @@
   * [Training night schedule](training/core-program/training-night-schedule.md)
   * [Rank & appointments](training/core-program/rank-and-appointments.md)
   * [Promotions](training/core-program/promotions.md)
+  * [Awards & recognition](training/core-program/awards-and-recognition/README.md)
+    * [Squadron awards](training/core-program/awards-and-recognition/squadron-awards.md)
+    * [Training awards](training/core-program/awards-and-recognition/training-awards.md)
+    * [Team awards](training/core-program/awards-and-recognition/team-awards.md)
 * [Extra-curriculars](training/extra-curriculars/README.md)
   * [Teams](training/extra-curriculars/teams.md)
   * [Duke of Edinburgh's Award](training/extra-curriculars/duke-of-edinburghs-award.md)
@@ -36,10 +40,6 @@
   * [Safety procedures](training/administration/safety-procedures.md)
   * [Volunteer hours & letters of reference](training/administration/volunteer-hours-and-letters-of-reference.md)
   * [Cadet outtake procedure](training/administration/cadet-outtake-procedure.md)
-  * [Awards & recognition](training/administration/awards-and-recognition/README.md)
-    * [Squadron awards](training/administration/awards-and-recognition/squadron-awards.md)
-    * [Training awards](training/administration/awards-and-recognition/training-awards.md)
-    * [Team awards](training/administration/awards-and-recognition/team-awards.md)
 
 ## Standards
 
@@ -78,5 +78,4 @@
   * [Acronyms and definitions](resources/cadet-jargon/acronyms-and-definitions.md)
   * [Ranks](resources/cadet-jargon/ranks.md)
 * [Documents](resources/documents.md)
-* [Training locations](resources/training-locations.md)
 

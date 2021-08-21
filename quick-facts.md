@@ -1,8 +1,8 @@
 # Quick facts
 
-## Location
+## Training year
 
-540 Squadron trains out of Blakelock High School on Tuesday evenings. The training year follows the school year from September - June.
+540 Squadron's training year follows the school year from September - June.
 
 ## Contact information
 

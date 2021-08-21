@@ -6,6 +6,7 @@
 | ACR | Annual Ceremonial Review |
 | CAF | Canadian Armed Forces |
 | CI | Civilian Instructor |
+| CV | Civilian Volunteer |
 | CO | Commanding Officer |
 | CO's Parade | Commanding Officer's Parade - CO's Parades are performed on a monthly basis. They are an opportunity for the CO to inspect each Cadet and the Squadron as a whole. All Cadets are expected to attend these evenings and to look as sharp as possible.  |
 | DCO | Deputy Commanding Officer |
