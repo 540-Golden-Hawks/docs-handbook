@@ -1,10 +1,6 @@
----
-description: >-
-  For any further questions about the registration fee payment, please contact a
-  member of the SSC.
----
-
 # Registration fee payment
+
+For any further questions about the registration fee payment, please contact a member of the SSC.
 
 ## How much is the registration fee and what does it include?
 
