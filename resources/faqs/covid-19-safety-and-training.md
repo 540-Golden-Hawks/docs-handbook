@@ -6,7 +6,9 @@ The safety of the cadets and staff is our greatest concern and is taken seriousl
 
 ## Will vaccinations be required to participate? 
 
-At the moment, there is no mandatory requirement for cadets to be vaccinated to participate in the program. In preparation for in-person training, the staff are asking that a voluntary vaccine self-declaration be completed. The link has been sent to existing cadets via their 540 email address. \*Please note that vaccines and self-declaration are not mandatory for participation in cadet activities at this time, and all responses to this form will be kept confidential to squadron staff.
+At the moment, there is no mandatory requirement for cadets to be vaccinated to participate in the program. In preparation for in-person training, the staff are asking that a voluntary vaccine self-declaration be completed. The link has been sent to existing cadets via their 540 email address. 
+
+Please note that vaccines and self-declaration are not mandatory for participation in cadet activities at this time, and all responses to this form will be kept confidential to squadron staff.
 
 ## Is there a virtual option if my cadet cannot attend in-person training activities?  
 

@@ -38,5 +38,5 @@ There is no cost for obtaining a uniform. Uniforms are paid for and provided by 
 
 ## How do I pay the registration fee?
 
-The tegistration fee is collected online. There is no option for in person payment. Returning cadets are emailed the registration payment link through their 540 email account. New recruits will receive the link after the Recruit Registration event.
+The registration fee is collected online. There is no option for in person payment. Returning cadets are emailed the registration payment link through their 540 email account. New recruits will receive the link after the Recruit Registration event.
 
