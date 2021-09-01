@@ -20,7 +20,7 @@ There should be no other mandatory additional costs except an approximate $10 ti
 
 ## What is the refund policy? 
 
-Refunds will be given up to 35 days after training starts per our [Registration Refund Policy](../../parents/sponsoring-committee-policies/1-registration-refund-policy.md).
+Refunds will be given up to 45 days after training starts per our [Registration Refund Policy](../../parents/sponsoring-committee-policies/1-registration-refund-policy.md).
 
 ## What if I cannot afford the registration fee?
 
