@@ -14,21 +14,19 @@ To be eligible for membership as a Cadet the recruit must:
 
 ## When can we join?
 
-We take on new Recruits each September, followed by a second intake in November.
+We take on new Recruits each September, followed by a second intake normally in November or January
 
 Due to the high demand for the program we run very specific recruit intake windows. Look for more information on the website over the summer to find out more.
 
 ## What time commitment do Cadets need to make?
 
-On a weekly basis, Cadets are only required to attend Tuesday evenings from 1830 - 2130 hrs.
+On a weekly basis, Cadets are required to attend a training night from 1830 - 2130 hrs.
 
-In addition to Tuesdays, there are occasional weekend activities such as our weekend field training exercises \(FTXs\), Remembrance Day Parades, or fundraising events organized by our Squadron Sponsoring Committee \(SSC\).
+In addition to the training night there are occasional weekend activities such as our weekend field training exercises \(FTXs\), Remembrance Day Parades, or fundraising events organized by our Squadron Sponsoring Committee \(SSC\).
 
-## What activities take place outside of Tuesday evenings?
+## What activities take place outside of mandatory training nights?
 
 We offer a number of extracurricular activities, teams, and events that Cadets are not required to attend, but are highly encouraged to so in order to maximize the value the Cadet Program can provide.
-
-Visit the About page to find out more about what we do.
 
 ## We don’t live in Oakville, can my child still join?
 
