@@ -1,5 +1,7 @@
 # Fundraisers
 
+**COVID-19 Update:** In-person fundraising may not be permitted.
+
 The Squadron Sponsoring Committee’s main responsibility is to raise and administer funds to assist in the operation of the squadron. Most of the significant cost needed to run the squadron is provided through the fundraising efforts of the SSC. 
 
 Our fundraising sub-committee is always looking for new and creative ways of approaching local government, businesses and service groups for financial assistance. We are open to hearing from you about any donation/sponsorship opportunities that you may know about. These can be money as well as goods or services donations \(e.g. food for various events, space for activities, gift baskets for raffles etc.\) Please contact [ssc.secretary@540goldenhawks.ca](mailto:ssc.secretary@540goldenhawks.ca) for any questions.
