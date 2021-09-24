@@ -8,13 +8,21 @@ Not only does that build initiative on your Cadets’ part, it also gives our St
 
 Having said that, we know that most of our Cadets need a little extra support from their parents in their first year. We make it easy for parents to stay up to date via the following mechanisms.
 
+### Cadet email account
+
+Your Cadet has been assigned a 540 Google account. This account will be used as the primary source of all correspondance with your Cadet. Besides email, this account will also be used for Google Classroom, Google Calendar, and Google Meet.
+
+We encourage you to remind your Cadet to check their account.
+
 ### Closing parades
 
 Each Tuesday training night ends with a closing parade where staff provide announcements to the Squadron. Attending provides an opportunity to hear the announcements in real-time and ensure your Cadet has understood and is adequately prepared.
 
+**COVID-19 Update:** Note that parents may not be permitted to enter training facilities.
+
 ### **Website**
 
-Announcements as well as information on upcoming events is posted weekly to the website. You and your Cadet should be reviewing this on a regular basis to stay informed.
+Announcements as well as information on upcoming events is posted to the website. 
 
 ### **Slack**
 
