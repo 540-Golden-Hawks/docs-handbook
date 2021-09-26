@@ -4,7 +4,7 @@ description: Updated 26 Sep 21
 
 # COVID-19 & Training FAQ
 
-This page summarizes various COVID-19 and training related questions asked at the beginning of our training year. 
+This page summarizes various COVID-19 and training related questions asked at the beginning of this 2021-2022 training year. 
 
 Please also refer to the [slideshow presentation ](https://drive.google.com/file/d/1kCWd87-5Q2bnNwLS1OCWLX4Z93kmhb8a/view?usp=sharing)provided during the Returning Cadet Information Night on 21 Sep 21.
 
