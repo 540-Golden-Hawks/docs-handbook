@@ -2,7 +2,7 @@
 description: Updated 26 Sep 21
 ---
 
-# COVID-19/Training Q&As
+# COVID-19 & Training FAQ
 
 This page summarizes the questions asked during the Returning Cadet Information Night on 21 Sep 21.
 
