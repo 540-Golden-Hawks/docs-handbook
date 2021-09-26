@@ -4,6 +4,10 @@
 * [Quick facts](quick-facts.md)
 * [540 Website](https://540goldenhawks.ca)
 
+## 📌 2021-2022 Training Year
+
+* [COVID-19/Training Q&As](2021-2022-training-year/covid-19-training-q-and-as.md)
+
 ## Organization
 
 * [Our Squadron](organization/our-squadron.md)
