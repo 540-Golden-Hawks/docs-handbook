@@ -4,9 +4,9 @@ description: Updated 26 Sep 21
 
 # COVID-19 & Training FAQ
 
-This page summarizes the questions asked during the Returning Cadet Information Night on 21 Sep 21.
+This page summarizes various COVID-19 and training related questions asked at the beginning of our training year. 
 
-Please also refer to the [slideshow presentation ](https://drive.google.com/file/d/1kCWd87-5Q2bnNwLS1OCWLX4Z93kmhb8a/view?usp=sharing)provided during the event.
+Please also refer to the [slideshow presentation ](https://drive.google.com/file/d/1kCWd87-5Q2bnNwLS1OCWLX4Z93kmhb8a/view?usp=sharing)provided during the Returning Cadet Information Night on 21 Sep 21.
 
 If you have any further questions, please [review the FAQs contained within this handbook](../resources/faqs/), or use our [Q&A Google Form ](https://forms.gle/eETkeAkr84WaVkf86)to submit your question and we will get back to you. If it is urgent, please email [info@540goldenhawks.ca](mailto:info@540goldenhawks.ca) directly and include the name of your cadet in your email. Note that we have a high volume of emails and it may take a few days to get back to you.
 
