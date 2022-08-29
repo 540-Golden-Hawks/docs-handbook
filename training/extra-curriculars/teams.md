@@ -4,7 +4,7 @@ Many of our Cadets maintain a high level of activity and engagement with our Squ
 
 Our staff have observed that Cadets who participate on a team are more likely to have greater success with the Cadet Program overall due to building stronger relationships with peers, as well as increased opportunities to develop and practice leadership skills.
 
-Our teams include: 
+Our teams include:&#x20;
 
 * Biathlon
 * Effective speaking
@@ -15,6 +15,4 @@ Our teams include:
 * Rifle drill
 * Sports
 
-Of special note is our military band, which has had the honour of being awarded Top Band in Ontario for 3 years in a row.  
-
-
+Of special note is our military band, which has had the honour of being awarded Top Band in Ontario for 3 years in a row.\

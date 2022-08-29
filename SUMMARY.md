@@ -4,10 +4,6 @@
 * [Quick facts](quick-facts.md)
 * [540 Website](https://540goldenhawks.ca)
 
-## 📌 2021-2022 Training Year <a id="2021-2022"></a>
-
-* [COVID-19 & Training FAQ](2021-2022/covid-19-and-training-faq.md)
-
 ## Organization
 
 * [Our Squadron](organization/our-squadron.md)
@@ -84,4 +80,3 @@
   * [Acronyms and definitions](resources/cadet-jargon/acronyms-and-definitions.md)
   * [Ranks](resources/cadet-jargon/ranks.md)
 * [Documents](resources/documents.md)
-
