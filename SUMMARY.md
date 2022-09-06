@@ -70,8 +70,8 @@
 ## Resources
 
 * [Frequently Asked Questions](resources/faqs/README.md)
-  * [COVID-19 safety and training](resources/faqs/covid-19-safety-and-training.md)
   * [Registration fee payment](resources/faqs/registration-and-payments.md)
+  * [COVID-19 safety and training](resources/faqs/covid-19-safety-and-training.md)
   * [Enrolment](resources/faqs/enrolment.md)
   * [Recruit training](resources/faqs/recruit-training.md)
   * [Weekly training](resources/faqs/weekly-training.md)
