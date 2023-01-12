@@ -2,7 +2,7 @@
 
 Dear 540 Squadron family,
 
-On behalf of the Cadets, Staff, and Squadron Sponsoring Committee \(SSC\), we welcome you to the Squadron. We hope that you find your time with us to be an enjoyable, fun, and educational experience.
+On behalf of the Cadets, Staff, and Squadron Sponsoring Committee (SSC), we welcome you to the Squadron. We hope that you find your time with us to be an enjoyable, fun, and educational experience.
 
 This handbook is split into the following sections:
 
@@ -16,12 +16,11 @@ Cadets are required to review the section on Standards. All are encouraged to us
 
 Suggested modifications to this document can be made in writing up the Chain of Command to the Commanding Officer for review and approval.
 
-**N. DePass**
+**A. Vukojevic**
 
-Major  
-Commanding Officer  
-540 Golden Hawks Royal Canadian Air Cadet Squadron  
-Canadian Armed Forces  
-[co@540goldenhawks.ca](mailto:co@540goldenhawks.ca)  
+Captain\
+Commanding Officer\
+540 Golden Hawks Royal Canadian Air Cadet Squadron\
+Canadian Armed Forces\
+[co@540goldenhawks.ca](mailto:co@540goldenhawks.ca)\
 [540goldenhawks.ca](https://540goldenhawks.ca)
-
