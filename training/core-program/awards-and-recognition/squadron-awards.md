@@ -42,13 +42,17 @@ _“Major John Scott Junior NCM Award”_
 
 Presented to the Cpl, FCpl, or Sgt who demonstrated significant personal development and consideration for others.
 
+### Squadron Warrant Officer's Award
+
+Selected by the Squadron Warrant Officer and awarded to a cadet in recognition of potential and significant achievements both personally and with other squadron members.
+
 ### Top Flight&#xD;
 
 Awarded to the Flight who has demonstrated a high level of esprit de corps, comradery, and a unique sense of pride within the Squadron.&#x20;
 
 _Note: The intent of this award is to encourage a healthy and positive competition between flights on the parade square during appropriate periods within opening and closing parades by way of “attitude checks” and related behaviour._
 
-## Commander awards
+## Team Commander awards
 
 ### Drum Major&#xD;
 
