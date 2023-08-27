@@ -4,13 +4,7 @@ For any further questions about the registration fee payment, please contact a m
 
 ## How much is the registration fee and what does it include?
 
-Registration is $200 per cadet. The registration fee alone does not cover the total cost for all of the activities provided by the squadron. The registration fee goes towards the total cost of the program along with grants from DND as well as fundraising and sponsorship. Program costs include: payments to the Air Cadet League of Canada, facility rentals, as well as operational and training costs incurred by the squadron.
-
-## Does the registration fee include purchasing the Air Cadet League lottery ticket fundraiser?&#x20;
-
-The $200 registration fee does include the lottery. In previous years cadets were required to sell $60 of lottery tickets per year. In 2020-2021, the Air Cadet League lottery was online but the squadron was still required to sell a minimum number of tickets. Registration fees used to cover the mandatory tickets to be purchased by the squadron as part of the online lottery.&#x20;
-
-All winnings from these tickets are reinvested in the squadron. Friends and family can purchase additional lottery tickets with an opportunity to win cash prizes as well as a partial donation to the squadron from ticket sales.
+Registration is $250 per cadet. The registration fee alone does not cover the total cost for all of the activities provided by the squadron. The registration fee goes towards the total cost of the program along with grants from DND as well as fundraising and sponsorship. Program costs include: payments to the Air Cadet League of Canada, facility rentals, as well as operational and training costs incurred by the squadron.
 
 ## Are there any other expenses throughout the year?&#x20;
 
@@ -28,7 +22,7 @@ For more information refer to our [Financial Support to Cadets ](../../parents/s
 
 ## Is there a discount for registering multiple siblings?
 
-Yes, each additional sibling is only $175, saving $25.
+Yes, each additional sibling is $200, saving $50.
 
 ## Is there a cost for the uniform?
 
