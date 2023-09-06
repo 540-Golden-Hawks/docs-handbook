@@ -16,7 +16,7 @@ C2 is worn for mess dinners and banquets and has the following changes from C1 C
 
 * No headdress
 * No name tag
-* Jacket with ribbons \(no medals\)
+* Jacket with ribbons (no medals)
 * Black bow tie instead of black tie
 * White dress shirt
 
@@ -26,51 +26,30 @@ If a Cadet doesn't have a black bow tie and a white dress shirt, an alternative 
 {% endtab %}
 
 {% tab title="C3 - Service" %}
-C3 is the daily dress for Cadets and has several variants from C3 \(the most formal\) to C3F \(the least formal\).
+C3 is the daily dress for Cadets and has several variants from C3 (the most formal) to C3F (the least formal).
 
-| Order | Details |
-| :--- | :--- |
-| C3 \("winter dress"\) | Jacket with ribbons |
-| C3A | Jacket is removed |
-| C3B \("summer dress"\) | Jacket and tie are removed |
-| C3E | Jacket with ribbons, but with the blue t-shirt instead of collared blue shirt |
-| C3F | Only the blue t-shirt is worn |
+| Order                | Details                                                                       |
+| -------------------- | ----------------------------------------------------------------------------- |
+| C3 ("winter dress")  | Jacket with ribbons                                                           |
+| C3A                  | Jacket is removed                                                             |
+| C3B ("summer dress") | Jacket and tie are removed                                                    |
+| C3E                  | Jacket with ribbons, but with the blue t-shirt instead of collared blue shirt |
+| C3F                  | Only the blue t-shirt is worn                                                 |
 {% endtab %}
 
 {% tab title="C5 - Training" %}
 C5 is a mix of various training uniforms.
 
-| Order | Description |
-| :--- | :--- |
-| C5 | Field Training Uniform \(FTU\) |
-| C5A | Same as C5, but without the field training shirt |
-| C5B | Flight suit |
-| C5C | Sports attire |
-| C5E \("summer training"\) | Ball cap or tilley hat, blue t-shirt, shorts, runners. No rank or name tag is worn. |
+| Order                   | Description                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------- |
+| C5                      | Field Training Uniform (FTU)                                                        |
+| C5A                     | Same as C5, but without the field training shirt                                    |
+| C5B                     | Flight suit                                                                         |
+| C5C                     | Sports attire                                                                       |
+| C5E ("summer training") | Ball cap or tilley hat, blue t-shirt, shorts, runners. No rank or name tag is worn. |
 {% endtab %}
 {% endtabs %}
 
-## Images
+## Images and additional reference
 
-{% hint style="info" %}
-Content under development
-{% endhint %}
-
-{% tabs %}
-{% tab title="C1 - Ceremonial" %}
-
-{% endtab %}
-
-{% tab title="C2 - Mess" %}
-
-{% endtab %}
-
-{% tab title="C3 - Service" %}
-
-{% endtab %}
-
-{% tab title="C5 - Training" %}
-
-{% endtab %}
-{% endtabs %}
-
+Please refer directly to the [CJCR Dress Instructions](https://www.canada.ca/en/department-national-defence/services/cadets-junior-canadian-rangers/cjcr-policy/cjcr-dress-instructions.html) for images and additional information about orders of dress.

@@ -8,7 +8,7 @@ At the end of each training night we have a Closing Parade. Parents are encourag
 
 ## Website
 
-Announcements, Warning Orders \(i.e. permission slips\), and information on upcoming events are all posted to the website announcements page.
+Announcements, general information on upcoming events, and our calendar are located on our website announcements page: [https://540goldenhawks.ca/announcements/](https://540goldenhawks.ca/announcements/).
 
 ## Slack
 
@@ -33,5 +33,5 @@ We can be found at:
 
 * Facebook: [@540GoldenHawks](https://facebook.com/540goldenhawks)
 * Instagram: [@540GoldenHawks](https://instagram.com/540goldenhawks)
-* Twitter: [@540GoldenHawks](https://twitter.com/540goldenhawks)
 
+Alternatively review a Facebook feed from our website: [https://540goldenhawks.ca/blog/](https://540goldenhawks.ca/blog/).
